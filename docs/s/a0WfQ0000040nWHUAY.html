@@ -8,14 +8,14 @@
 :root{
   --bg:#f5f8fc;--surface:#fff;--fg:#17212b;--mut:#5a6b7d;--line:#e2e9f1;
   --pri:#1a56db;--pri-d:#1244b3;--pri-soft:#e8effd;--neutral-bg:#eceff3;--neutral-fg:#46535f;
-  --urg:#c2261b;--urg-bg:#fdecea;--soon:#a15c00;--soon-bg:#fff4e0;
+  --money:#0a7a3d;--urg:#c2261b;--urg-bg:#fdecea;--soon:#a15c00;--soon-bg:#fff4e0;
   --shadow:0 1px 2px rgba(16,40,70,.06),0 4px 14px rgba(16,40,70,.05);
   --hero1:#1a56db;--hero2:#0e8f8a;
 }
 @media(prefers-color-scheme:dark){:root{
   --bg:#0f141a;--surface:#171e26;--fg:#e8edf2;--mut:#9aa9b8;--line:#28323d;
   --pri:#6aa6ff;--pri-d:#8dbbff;--pri-soft:#1b2a44;--neutral-bg:#252e38;--neutral-fg:#b4c0cc;
-  --urg:#ff8a80;--urg-bg:#3a1e1c;--soon:#ffc266;--soon-bg:#3a2d16;
+  --money:#4fd48a;--urg:#ff8a80;--urg-bg:#3a1e1c;--soon:#ffc266;--soon-bg:#3a2d16;
   --shadow:none;--hero1:#173d94;--hero2:#0b625f;
 }}
 *{box-sizing:border-box}
@@ -65,14 +65,14 @@ input[type=search],select{width:100%;font:inherit;font-size:1rem;min-height:46px
   text-decoration:none;color:var(--fg);box-shadow:var(--shadow);transition:transform .12s,border-color .12s}
 .card:hover{border-color:var(--pri);transform:translateY(-1px)}
 .badges{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px}
-.tag{display:inline-block;border-radius:6px;padding:1px 9px;font-size:.82rem;font-weight:600;background:var(--neutral-bg);color:var(--neutral-fg)}
+.tag{display:inline-block;border-radius:99px;padding:1px 10px;font-size:.78rem;font-weight:700;background:var(--pri-soft);color:var(--pri)}
 .tag.urg{background:var(--urg-bg);color:var(--urg)}
 .tag.soon{background:var(--soon-bg);color:var(--soon)}
 .card h3{margin:0 0 10px;font-size:1.04rem;line-height:1.55;font-weight:700}
 .kv{display:flex;flex-wrap:wrap;gap:6px 22px;border-top:1px dashed var(--line);padding-top:10px}
 .kv div{font-size:.8rem;color:var(--mut);line-height:1.5}
 .kv b{display:block;font-size:1.02rem;color:var(--fg)}
-.kv .amt b{font-size:1.3rem;font-weight:800;letter-spacing:.01em}
+.kv .amt b{color:var(--money)}
 .na{color:var(--mut)!important;font-weight:500!important;font-size:.95rem!important}
 .na small{display:block;font-size:.72rem;font-weight:400;line-height:1.4}
 .empty{padding:28px;text-align:center;color:var(--mut)}
@@ -86,7 +86,7 @@ h1.t{font-size:1.5rem;line-height:1.5;margin:6px 0 12px}
 .fact{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
 .fact span{display:block;font-size:.78rem;color:var(--mut)}
 .fact b{font-size:1.12rem;line-height:1.5}
-.fact.hi b{font-size:1.45rem;font-weight:800}
+.fact.hi b{color:var(--money)}
 .fact.urg b{color:var(--urg)}
 .cta{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 6px}
 .btn{display:inline-flex;align-items:center;justify-content:center;min-height:50px;padding:10px 24px;border-radius:12px;
