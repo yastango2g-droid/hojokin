@@ -4,15 +4,15 @@ CSS = """
 :root{
   --bg:#f5f8fc;--surface:#fff;--fg:#17212b;--mut:#5a6b7d;--line:#e2e9f1;
   --pri:#1a56db;--pri-d:#1244b3;--pri-soft:#e8effd;--neutral-bg:#eceff3;--neutral-fg:#46535f;
-  --money:#0a7a3d;--urg:#c2261b;--urg-bg:#fdecea;--soon:#a15c00;--soon-bg:#fff4e0;
+  --money:#1a56db;--area-bg:#e3f5ea;--area-fg:#117a3e;--urg:#c2410c;--urg-bg:#ffe8d6;--soon:#8a6100;--soon-bg:#fff3c4;
   --shadow:0 1px 2px rgba(16,40,70,.06),0 4px 14px rgba(16,40,70,.05);
-  --hero1:#1a56db;--hero2:#0e8f8a;
+  --hero1:#5b6672;--hero2:#3b434d;
 }
 @media(prefers-color-scheme:dark){:root{
   --bg:#0f141a;--surface:#171e26;--fg:#e8edf2;--mut:#9aa9b8;--line:#28323d;
   --pri:#6aa6ff;--pri-d:#8dbbff;--pri-soft:#1b2a44;--neutral-bg:#252e38;--neutral-fg:#b4c0cc;
-  --money:#4fd48a;--urg:#ff8a80;--urg-bg:#3a1e1c;--soon:#ffc266;--soon-bg:#3a2d16;
-  --shadow:none;--hero1:#173d94;--hero2:#0b625f;
+  --money:#7db4ff;--area-bg:#16301f;--area-fg:#6fdc99;--urg:#ffa45c;--urg-bg:#3d2812;--soon:#f0cf6a;--soon-bg:#392f10;
+  --shadow:none;--hero1:#2f3640;--hero2:#222830;
 }}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -62,7 +62,7 @@ input[type=search],select{width:100%;font:inherit;font-size:1rem;min-height:46px
   text-decoration:none;color:var(--fg);box-shadow:var(--shadow);transition:transform .12s,border-color .12s}
 .card:hover{border-color:var(--pri);transform:translateY(-1px)}
 .badges{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px}
-.tag{display:inline-block;border-radius:99px;padding:1px 10px;font-size:.78rem;font-weight:700;background:var(--pri-soft);color:var(--pri)}
+.tag{display:inline-block;border-radius:99px;padding:1px 10px;font-size:.78rem;font-weight:700;background:var(--area-bg);color:var(--area-fg)}
 .tag.urg{background:var(--urg-bg);color:var(--urg)}
 .tag.soon{background:var(--soon-bg);color:var(--soon)}
 .card h3{margin:0 0 10px;font-size:1.04rem;line-height:1.55;font-weight:700}
