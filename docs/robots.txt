@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yastango2g-droid.github.io/hojokin/sitemap.xml
