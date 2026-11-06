@@ -105,9 +105,10 @@ def main():
         items.append((d, end))
     items.sort(key=lambda x: x[1] or NOW + timedelta(days=9999))
 
-    if OUT_DIR.exists():
-        shutil.rmtree(OUT_DIR)
-    (OUT_DIR / "s").mkdir(parents=True)
+    OUT_DIR.mkdir(exist_ok=True)
+    for child in OUT_DIR.iterdir():  # フォルダ自体は消さず中身だけ入れ替える(Windowsのロック対策)
+        shutil.rmtree(child) if child.is_dir() else child.unlink()
+    (OUT_DIR / "s").mkdir()
     # static/ に置いたファイル(Search Console の確認ファイル等)を docs/ 直下へコピー
     static = DATA_DIR.parent / "static"
     if static.exists():

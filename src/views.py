@@ -12,6 +12,12 @@ def make_views(page, fmt_dt, fmt_yen, area_of, jst, affiliate_block, DISCLAIMER,
     """build.py から共通部品を受け取り、各ページ生成関数を返す(循環importを避けるため)。"""
     today = now.strftime("%Y年%m月%d日")
 
+    def val(text, missing=False):
+        """値があれば通常表示、無ければ薄いグレーで「記載なし」と区別する。"""
+        if missing or not text:
+            return '<b class="na">記載なし<small>詳細は公式ページで確認</small></b>'
+        return f"<b>{esc(str(text))}</b>"
+
     def days_left(end):
         return max(0, (end.date() - now.date()).days) if end else None
 
@@ -45,8 +51,8 @@ def make_views(page, fmt_dt, fmt_yen, area_of, jst, affiliate_block, DISCLAIMER,
         urg = " urg" if days is not None and days <= 7 else ""
         left = f"(あと{days}日)" if days is not None else ""
         facts = f"""<div class="facts">
-<div class="fact hi"><span>補助上限額</span><b>{esc(fmt_yen(d.get("subsidy_max_limit")))}</b></div>
-<div class="fact"><span>補助率</span><b>{esc(d.get("subsidy_rate") or "公式ページで確認")}</b></div>
+<div class="fact hi"><span>補助上限額</span>{val(fmt_yen(d.get("subsidy_max_limit")), not d.get("subsidy_max_limit"))}</div>
+<div class="fact"><span>補助率</span>{val(d.get("subsidy_rate"))}</div>
 <div class="fact{urg}"><span>申請締切</span><b>{fmt_dt(end)}{left}</b></div>
 <div class="fact"><span>対象地域</span><b>{esc(area)}</b></div></div>"""
         ai = (f'<div class="ai"><b>概要(AIによる要約)</b><p>{esc(summary)}</p>'
@@ -73,8 +79,8 @@ def make_views(page, fmt_dt, fmt_yen, area_of, jst, affiliate_block, DISCLAIMER,
         rate = d.get("subsidy_rate") or ""
         rate = rate if len(rate) <= 22 else rate[:21] + "…"
         hay = " ".join(filter(None, [d["title"], d.get("subsidy_catch_phrase"), d.get("use_purpose"), area])).lower()
-        kv = (f'<div class="amt">上限額<b>{esc(fmt_yen(d.get("subsidy_max_limit")))}</b></div>'
-              f'<div>補助率<b>{esc(rate) if rate else "公式で確認"}</b></div>'
+        kv = (f'<div class="amt">上限額{val(fmt_yen(d.get("subsidy_max_limit")), not d.get("subsidy_max_limit"))}</div>'
+              f'<div>補助率{val(rate)}</div>'
               f'<div>締切<b>{fmt_dt(end)}</b></div>')
         return (
             f'<a class="card" data-t="{esc(hay)}" data-area="{esc(area)}" '
@@ -133,13 +139,19 @@ INDEX_JS = """<script>
 (()=>{const q=document.getElementById('q'),ar=document.getElementById('area'),so=document.getElementById('sort'),
 n=document.getElementById('n'),em=document.getElementById('empty'),list=document.getElementById('list'),
 cards=[...list.children],chips={soon:false,big:false};
-function run(){const k=q.value.trim().toLowerCase().split(/\\s+/).filter(Boolean);let c=0;
+let run;function _r(){const k=q.value.trim().toLowerCase().split(/\\s+/).filter(Boolean);let c=0;
 cards.forEach(e=>{const ok=k.every(w=>e.dataset.t.includes(w))&&(!ar.value||e.dataset.area===ar.value)
 &&(!chips.soon||+e.dataset.days<=14)&&(!chips.big||+e.dataset.max>=10000000);e.hidden=!ok;c+=ok});
 n.textContent=c;em.hidden=c>0;
 [...cards].sort((a,b)=>so.value==='amount'?(+b.dataset.max-+a.dataset.max)||(+a.dataset.i-+b.dataset.i):(+a.dataset.i-+b.dataset.i)).forEach(e=>list.appendChild(e))}
-q.oninput=ar.onchange=so.onchange=run;
+const KEY='hojokin_filters';
+function save(){try{sessionStorage.setItem(KEY,JSON.stringify({q:q.value,a:ar.value,s:so.value,c:chips}))}catch(e){}}
+function load(){try{const j=JSON.parse(sessionStorage.getItem(KEY)||'null');if(!j)return;q.value=j.q||'';ar.value=j.a||'';so.value=j.s||'deadline';
+Object.assign(chips,j.c||{});document.querySelectorAll('.chip[data-c]').forEach(b=>b.setAttribute('aria-pressed',!!chips[b.dataset.c]))}catch(e){}}
+run=function(){_r();save()};
+q.oninput=ar.onchange=so.onchange=()=>run();
 document.querySelectorAll('.chip[data-c]').forEach(b=>b.onclick=()=>{const c=b.dataset.c;chips[c]=!chips[c];b.setAttribute('aria-pressed',chips[c]);run()});
+load();run();
 document.getElementById('reset').onclick=()=>{q.value='';ar.value='';so.value='deadline';chips.soon=chips.big=false;
 document.querySelectorAll('.chip[data-c]').forEach(b=>b.setAttribute('aria-pressed',false));run()};})();
 </script>"""
