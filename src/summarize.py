@@ -41,6 +41,16 @@ def numbers_ok(summary, source):
 
 
 NG_WORDS = ["必ず", "確実", "おすすめ", "絶対", "誰でも"]
+# AIの断り文・質問返しを公開しないための語句
+REFUSAL_WORDS = ["情報が不足", "提供して", "まとめることができません", "要約できません", "お知らせください", "申し訳"]
+
+
+def summary_ok(summary, source):
+    return (
+        40 <= len(summary) <= 300
+        and numbers_ok(summary, source)
+        and not any(w in summary for w in NG_WORDS + REFUSAL_WORDS)
+    )
 
 
 def call_openai(text):
@@ -70,8 +80,15 @@ def main():
         print("OPENAI_API_KEY 未設定のため要約をスキップ(事実項目のみでサイトを作ります)")
         return
 
-    done = rejected = 0
+    # 既存の要約も今の基準で再検証(基準強化前に保存されたものを除去)
     for sid, d in data.items():
+        if d.get("summary") and not summary_ok(d["summary"], source_text(d)):
+            d.pop("summary")
+            d.pop("summary_src_hash", None)  # 再要約の対象に戻す
+
+    done = rejected = 0
+    # 締切が近い案件から優先して要約する
+    for sid, d in sorted(data.items(), key=lambda kv: kv[1].get("acceptance_end_datetime") or "9999"):
         src = source_text(d)
         h = hashlib.sha1(src.encode()).hexdigest()
         if d.get("summary_src_hash") == h:
@@ -87,7 +104,7 @@ def main():
             continue
         done += 1
         d["summary_src_hash"] = h
-        if numbers_ok(s, src) and not any(w in s for w in NG_WORDS):
+        if summary_ok(s, src):
             d["summary"] = s
         else:
             d.pop("summary", None)
