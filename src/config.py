@@ -25,3 +25,6 @@ AFFILIATE_LINKS = [
     # {"label": "補助金申請に強い専門家を探す", "url": "https://...", "note": "PR"},
 ]
 ADSENSE_CLIENT = os.environ.get("ADSENSE_CLIENT", "")  # 例: ca-pub-XXXXXXXXXXXXXXXX
+
+# アクセス解析(Cloudflare Web Analytics)。トークンを設定したときだけ計測タグを出す
+CF_ANALYTICS_TOKEN = os.environ.get("CF_ANALYTICS_TOKEN", "")

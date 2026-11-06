@@ -106,7 +106,16 @@ def make_views(page, fmt_dt, fmt_yen, area_of, jst, affiliate_block, DISCLAIMER,
         return page(f"{label}締切の補助金・助成金一覧|{SITE_NAME}", body, "deadline.html",
                     desc=f"{label}に申請締切を迎える補助金・助成金の一覧。中小企業・個人事業主向けの募集中案件を締切順に掲載。")
 
-    def build_index(items):
+    def build_topic(path, h1, intro, items, crumb_label, desc):
+        """目的別・地域別の一覧ページ(静的に全件を並べる)。"""
+        listing = '<div class="list">' + "".join(card_html(d, e, i) for i, (d, e) in enumerate(items)) + "</div>"
+        body = f"""<p class="crumb"><a href="{SITE_URL}/">補助金一覧</a> › {esc(crumb_label)}</p>
+<h1 class="t">{esc(h1)}</h1><p>{esc(intro)}</p>
+<p class="count"><b>{len(items)}</b> 件(締切が近い順・{today}時点)</p>{listing}
+<p style="margin-top:24px"><a href="{SITE_URL}/">← 募集中の補助金一覧へ</a> / <a href="{SITE_URL}/guide.html">補助金の探し方・申請の流れ</a></p>"""
+        return page(f"{h1}|{SITE_NAME}", body, path, desc=desc)
+
+    def build_index(items, topic_links=""):
         areas = sorted({area_of(d) for d, _ in items}, key=lambda a: (a != "全国", a))
         opts = "".join(f'<option value="{esc(a)}">{esc(a)}</option>' for a in areas)
         cards = "".join(card_html(d, end, i) for i, (d, end) in enumerate(items))
@@ -129,10 +138,10 @@ def make_views(page, fmt_dt, fmt_yen, area_of, jst, affiliate_block, DISCLAIMER,
 <a class="chip" style="text-decoration:none" href="{SITE_URL}/deadline.html">今月締切の一覧 →</a></div></section>
 <p class="count"><b id="n">{len(items)}</b> 件の補助金が見つかりました</p>
 <div class="list" id="list">{cards}</div>
-<p class="empty" id="empty" hidden>条件に合う補助金は見つかりませんでした。条件を変えてお試しください。</p>{INDEX_JS}"""
+<p class="empty" id="empty" hidden>条件に合う補助金は見つかりませんでした。<br>キーワードを短くするか、地域を「すべての地域」にして、もう一度お試しください。<br><button class="chip" type="button" onclick="document.getElementById('reset').click()">条件をリセットする</button></p>{topic_links}{INDEX_JS}"""
         return page(f"募集中の補助金・助成金一覧|{SITE_NAME}", body, "", hero=hero)
 
-    return build_detail, build_deadline, build_index
+    return build_detail, build_deadline, build_index, build_topic
 
 
 INDEX_JS = """<script>

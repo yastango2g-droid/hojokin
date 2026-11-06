@@ -102,6 +102,15 @@ tr:last-child th,tr:last-child td{border-bottom:0}
 .ai{background:var(--pri-soft);border-radius:12px;padding:12px 16px;margin:14px 0}
 .ai p{margin:.2rem 0}
 
+/* 目的別・地域別リンク */
+.topics{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:6px 18px 16px;margin:28px 0}
+.topics h2{margin-top:1rem}
+.tl{display:flex;flex-wrap:wrap;gap:8px}
+.tl a{display:inline-block;padding:6px 14px;border-radius:99px;border:1px solid var(--line);text-decoration:none;font-size:.92rem;font-weight:600;color:var(--fg)}
+.tl a:hover{border-color:var(--pri);color:var(--pri)}
+.tl small{color:var(--mut);font-weight:400}
+.prose h2{margin-top:1.8rem}
+.prose ol,.prose ul{padding-left:1.4em}
 /* 本文系ページ */
 .prose{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:6px 20px 20px;margin:20px 0}
 
