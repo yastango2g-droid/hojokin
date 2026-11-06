@@ -190,6 +190,12 @@ def main():
     if OUT_DIR.exists():
         shutil.rmtree(OUT_DIR)
     (OUT_DIR / "s").mkdir(parents=True)
+    # static/ に置いたファイル(Search Console の確認ファイル等)を docs/ 直下へコピー
+    static = DATA_DIR.parent / "static"
+    if static.exists():
+        for f in static.iterdir():
+            if f.is_file():
+                shutil.copy(f, OUT_DIR / f.name)
     (OUT_DIR / ".nojekyll").write_text("")
     (OUT_DIR / "index.html").write_text(build_index(items), encoding="utf-8")
     (OUT_DIR / "deadline.html").write_text(build_deadline(items), encoding="utf-8")
