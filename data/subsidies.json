@@ -705,8 +705,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYfxMAH",
   "institution_name": "古賀市中小企業等向け太陽光発電設備導入補助金",
-  "summary_src_hash": "5feb91ffaa3c3c78c47563eab1e8e159b48b3032",
-  "summary": "古賀市内の中小企業・中堅企業が太陽光発電設備を導入する際に、エネルギー価格高騰対策と脱炭素化を目的とした補助金が提供されます。この補助金は、太陽光発電設備の購入、オンサイトPPA、リースによる導入に対して支給され、最大450万円の補助が受けられます。対象となる設備は、商用化されており、発電出力が10kW以上で、自家消費が50%以上である必要があります。"
+  "summary": "古賀市内の中小企業・中堅企業が太陽光発電設備を導入する際に、エネルギー価格高騰対策と脱炭素化を目的とした補助金が提供されます。この補助金は、太陽光発電設備の購入、オンサイトPPA、リースによる導入に対して支給され、最大450万円の補助が受けられます。対象となる設備は、商用化されており、発電出力が10kW以上で、自家消費が50%以上である必要があります。",
+  "summary_src_hash": "5feb91ffaa3c3c78c47563eab1e8e159b48b3032"
  },
  "a0WJ200000CDY89MAH": {
   "id": "a0WJ200000CDY89MAH",
@@ -832,7 +832,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYTvMAP",
-  "institution_name": "久留米市キッチンカー導入事業費補助金（令和８年度）"
+  "institution_name": "久留米市キッチンカー導入事業費補助金（令和８年度）",
+  "summary_src_hash": "ecadad80795d5137ad381e75d753e8f90becb713",
+  "summary": "この補助金は、久留米市内の中小事業者がキッチンカーを導入し、移動販売に取り組む事業を支援するためのものです。補助対象となる経費には、キッチンカーの製作に必要な車両改造費、設備導入費、車両購入費が含まれます。"
  },
  "a0WfQ0000047HWTUA2": {
   "id": "a0WfQ0000047HWTUA2",
@@ -1001,8 +1003,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddVMAT",
   "institution_name": "やまがた未来くるエネルギー補助金",
-  "summary_src_hash": "72bda86fb69d6ab17501a0ad6bb4308a77107248",
-  "summary": "この補助金は、家庭や事業所における再生可能エネルギー設備の導入を促進し、温室効果ガスの削減を目的としています。対象となる設備には、蓄電池設備、木質バイオマス燃焼機器、地中熱利用装置が含まれ、これらの設置にかかる経費の一部が補助されます。補助対象者は山形県内に住所または事業所を有する個人や法人です。"
+  "summary": "この補助金は、家庭や事業所における再生可能エネルギー設備の導入を促進し、温室効果ガスの削減を目的としています。対象となる設備には、蓄電池設備、木質バイオマス燃焼機器、地中熱利用装置が含まれ、これらの設置にかかる経費の一部が補助されます。補助対象者は山形県内に住所または事業所を有する個人や法人です。",
+  "summary_src_hash": "72bda86fb69d6ab17501a0ad6bb4308a77107248"
  },
  "a0WJ200000CDddWMAT": {
   "id": "a0WJ200000CDddWMAT",
@@ -1023,7 +1025,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddWMAT",
-  "institution_name": "山形県再生可能エネルギー(小水力発電)事業可能性調査事業費補助金"
+  "institution_name": "山形県再生可能エネルギー(小水力発電)事業可能性調査事業費補助金",
+  "summary_src_hash": "b780b39b35a38ddb5d33e8dd1d5c1e4c424fb440",
+  "summary": "再生可能エネルギー発電事業の県内展開を促進するため、小水力発電事業における流量調査を実施する事業者に対して補助金が交付されます。対象は、設備容量1,000キロワット以下の小水力発電事業を計画する法人や個人事業主、町内会や自治会で、流量調査に必要な経費が補助対象となります。"
  },
  "a0WJ200000CDddXMAT": {
   "id": "a0WJ200000CDddXMAT",
@@ -1044,7 +1048,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddXMAT",
-  "institution_name": "地域主導型再生可能エネルギー導入支援事業費補助金"
+  "institution_name": "地域主導型再生可能エネルギー導入支援事業費補助金",
+  "summary_src_hash": "3a4be5f882c571f1dcc4327415f8aa675d5b3932",
+  "summary": "この補助金は、山形県内の市町村や自治会、協議会が主体となり、再生可能エネルギーの導入に向けた勉強会やセミナー、先進地視察などの取り組みに対して交付されます。地域の環境価値を住民の生活向上や地域活性化に繋げることを目的としています。"
  },
  "a0WJ200000CDeYeMAL": {
   "id": "a0WJ200000CDeYeMAL",
@@ -1066,8 +1072,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYeMAL",
   "institution_name": "観光関連事業者のDX・経営力強化支援事業補助金",
-  "summary_src_hash": "299a17c5d120047eb3d6ab56a2560adc584711e4",
-  "summary": "東京都内の中小企業の観光関連事業者が、専門家の支援を受けて新たに実施するDXやデジタル化、新商品・サービス開発等に要する経費の一部を補助します。この事業は、観光経営力の向上を図り、東京の旅行地としての魅力やブランド力の向上を目的としています。"
+  "summary": "東京都内の中小企業の観光関連事業者が、専門家の支援を受けて新たに実施するDXやデジタル化、新商品・サービス開発等に要する経費の一部を補助します。この事業は、観光経営力の向上を図り、東京の旅行地としての魅力やブランド力の向上を目的としています。",
+  "summary_src_hash": "299a17c5d120047eb3d6ab56a2560adc584711e4"
  },
  "a0WJ200000CDYuIMAX": {
   "id": "a0WJ200000CDYuIMAX",
@@ -1298,7 +1304,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjyMAH",
-  "institution_name": "【福井県】電気自動車用充電インフラ整備促進事業補助金"
+  "institution_name": "【福井県】電気自動車用充電インフラ整備促進事業補助金",
+  "summary_src_hash": "8e37ae26502efc32dc92a5ec26d69223c78cd8c2",
+  "summary": "福井県内の商業施設や宿泊施設等において、電気自動車（EV）やプラグインハイブリッド車（PHV）の充電設備を導入するための補助金です。急速充電設備や普通充電設備の購入費および工事費の一部を支援し、温室効果ガス排出量の削減を目的としています。一般利用が可能な施設が対象で、申請は先着順で行われます。"
  },
  "a0WJ200000CDXjzMAH": {
   "id": "a0WJ200000CDXjzMAH",
@@ -1383,8 +1391,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDderMAD",
   "institution_name": "SDS電子化補助金事業",
-  "summary_src_hash": "9ad3f38e60b80ff6944fac154e98f78c0c369fcd",
-  "summary": "SDS電子化補助金は、標準フォーマットによる電子データの出力及び入力に対応したシステムの導入や、既存システムへの機能追加に要する費用の一部を補助するものです。この補助金は、化学物質による労働災害の防止を目的としており、特定の業種に属さない法人や事業者が対象となります。"
+  "summary": "SDS電子化補助金は、標準フォーマットによる電子データの出力及び入力に対応したシステムの導入や、既存システムへの機能追加に要する費用の一部を補助するものです。この補助金は、化学物質による労働災害の防止を目的としており、特定の業種に属さない法人や事業者が対象となります。",
+  "summary_src_hash": "9ad3f38e60b80ff6944fac154e98f78c0c369fcd"
  },
  "a0WJ200000CDYuhMAH": {
   "id": "a0WJ200000CDYuhMAH",
@@ -1615,7 +1623,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjxMAH",
-  "institution_name": "【福井県】Ｖ２Ｈ充放電設備設置支援事業補助金"
+  "institution_name": "【福井県】Ｖ２Ｈ充放電設備設置支援事業補助金",
+  "summary_src_hash": "f00aca3b4248aa0d7a6804ce9866d7746b5559eb",
+  "summary": "福井県内の事務所や施設に「V2H充放電設備」を導入する際の購入費用の一部を補助する事業です。この補助金は、二酸化炭素および温室効果ガス排出量の削減を目的としており、県内に住所または事業所を有する法人や個人事業主が対象となります。国の補助金との併用も可能です。"
  },
  "a0WJ200000CDY1VMAX": {
   "id": "a0WJ200000CDY1VMAX",
@@ -1828,8 +1838,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX",
   "institution_name": "令和８年度　産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業①空港における再エネ活用型GPU等導入支援（二酸化炭素排出抑制対策事業費等補助金）",
-  "summary_src_hash": "1b488a5e83b26c5aae29edb0bcf506e76701602f",
-  "summary": "この補助金は、航空機の駐機中に電気や冷暖房を供給するために、従来の航空機燃料を使用したAPU等から再生可能エネルギー由来の固定式GPUや移動式GPUへの切り替えを行う事業に使える。目的は空港における脱炭素化を促進し、2050年のカーボンニュートラルの実現に寄与すること。"
+  "summary": "この補助金は、航空機の駐機中に電気や冷暖房を供給するために、従来の航空機燃料を使用したAPU等から再生可能エネルギー由来の固定式GPUや移動式GPUへの切り替えを行う事業に使える。目的は空港における脱炭素化を促進し、2050年のカーボンニュートラルの実現に寄与すること。",
+  "summary_src_hash": "1b488a5e83b26c5aae29edb0bcf506e76701602f"
  },
  "a0WJ200000CDYVzMAP": {
   "id": "a0WJ200000CDYVzMAP",
@@ -1955,7 +1965,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdicMAD",
-  "institution_name": "中小企業等海外展開支援事業費補助金（海外出願支援事業）"
+  "institution_name": "中小企業等海外展開支援事業費補助金（海外出願支援事業）",
+  "summary_src_hash": "61c6b0975381ddf522ae30c0ca79008648567545",
+  "summary": "この補助金は、徳島県内の中小企業者等が外国への事業展開を計画する際に、外国特許庁への出願にかかる費用の一部を助成するものです。対象となる経費には、出願手数料、現地および国内代理人費用、翻訳費用などが含まれます。申請者は、日本国特許庁に出願済みで、外国出願を行う予定であることが求められます。"
  },
  "a0WJ200000CDY6KMAX": {
   "id": "a0WJ200000CDY6KMAX",
@@ -1976,7 +1988,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6KMAX",
-  "institution_name": "実証実験補助金"
+  "institution_name": "実証実験補助金",
+  "summary_src_hash": "7c7e8335677792e0a158d80294e8d053151dd076",
+  "summary": "この補助金は、倉敷市内で行う先端技術（AI、IoT、ロボット、AR・VR等）を活用した実証実験に対して支援されます。対象となる事業は、社会や地域の課題解決、豊かで便利な市民生活の実現、新たな産業の創出、及び倉敷市の魅力向上に寄与するプロジェクトです。"
  },
  "a0WJ200000CDYZ7MAP": {
   "id": "a0WJ200000CDYZ7MAP",
@@ -1997,7 +2011,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYZ7MAP",
-  "institution_name": "久留米市中小企業先端設備等導入支援補助金（令和8年度）"
+  "institution_name": "久留米市中小企業先端設備等導入支援補助金（令和8年度）",
+  "summary_src_hash": "1ed82736ccdcfe10cf96dc192e3324fdbb304843",
+  "summary": "大雨等による浸水被害の防止または軽減を目的とした補助金で、市内の店舗、事務所、工場等への止水板の設置や関連工事に要する費用の一部を助成します。対象は中小事業者で、事業継続力強化計画の認定を受けていることが条件です。"
  },
  "a0WJ200000CDY72MAH": {
   "id": "a0WJ200000CDY72MAH",
@@ -2084,8 +2100,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ04MAH",
   "institution_name": "令和８年度　産業車両等の脱炭素化促進事業のうち、港湾における脱炭素化促進事業（二酸化炭素排出抑制対策事業費等補助金）",
-  "summary_src_hash": "ed2d69bfb1effe3879c275b22d5670d1d1a57e42",
-  "summary": "この補助金は、脱炭素化に配慮した港湾機能の強化を目的とし、船舶へ電力を供給する陸上電力供給設備の導入や、ハイブリッド型・水素換装型・水素燃料型・電気自動車型の低・脱炭素型荷役機械の導入および改造事業に利用できる。対象は民間企業や地方公共団体など。"
+  "summary": "この補助金は、脱炭素化に配慮した港湾機能の強化を目的とし、船舶へ電力を供給する陸上電力供給設備の導入や、ハイブリッド型・水素換装型・水素燃料型・電気自動車型の低・脱炭素型荷役機械の導入および改造事業に利用できる。対象は民間企業や地方公共団体など。",
+  "summary_src_hash": "ed2d69bfb1effe3879c275b22d5670d1d1a57e42"
  },
  "a0WJ200000CDYkiMAH": {
   "id": "a0WJ200000CDYkiMAH",
@@ -2130,8 +2146,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYsRMAX",
   "institution_name": "森・川・海ごみ削減実践活動支援事業補助金",
-  "summary_src_hash": "676458abba3dc8e652f143f98868602408909228",
-  "summary": "海洋プラスチックごみ等の影響を軽減するため、森・川・海においてプラスチックごみの回収等を行う清掃活動を支援する補助金が交付されます。対象経費は清掃活動に要するもので、上限は10万円です。応募資格は、5人以上で清掃活動を行う団体であり、県の支援制度を活用していないことが条件です。"
+  "summary": "海洋プラスチックごみ等の影響を軽減するため、森・川・海においてプラスチックごみの回収等を行う清掃活動を支援する補助金が交付されます。対象経費は清掃活動に要するもので、上限は10万円です。応募資格は、5人以上で清掃活動を行う団体であり、県の支援制度を活用していないことが条件です。",
+  "summary_src_hash": "676458abba3dc8e652f143f98868602408909228"
  },
  "a0WJ200000CDYBxMAP": {
   "id": "a0WJ200000CDYBxMAP",
@@ -2152,7 +2168,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYBxMAP",
-  "institution_name": "INPIT事業再編計画支援事業補助金"
+  "institution_name": "INPIT事業再編計画支援事業補助金",
+  "summary_src_hash": "3cddde732729d06fdf10d835bc37408a467607d9",
+  "summary": "特定中堅企業者が、産業競争力強化法に基づく事業再編計画の認定を受けた場合、その工業所有権の保護や利用に必要な調査事業等にかかる経費の一部を助成する補助金です。この補助金は、認定事業再編計画に基づく取り組みを支援することを目的としています。"
  },
  "a0WJ200000CDYCsMAP": {
   "id": "a0WJ200000CDYCsMAP",
@@ -2238,7 +2256,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbpCMAT",
-  "institution_name": "久留米市小規模事業者デジタル化支援補助金（令和８年度）"
+  "institution_name": "久留米市小規模事業者デジタル化支援補助金（令和８年度）",
+  "summary_src_hash": "27a126297dd42f26a49ca46f66e1263403529d52",
+  "summary": "この補助金は、市内の小規模事業者がデジタル技術を活用して業務効率化や経営課題の解決に取り組む事業に対する経費の一部を支援するものです。対象となる経費には、ソフトウェア利用料、ウェブサイト関連費、委託費、機器購入費、デジタル人材育成費などが含まれます。"
  },
  "a0WJ200000CDdMCMA1": {
   "id": "a0WJ200000CDdMCMA1",
@@ -2302,8 +2322,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5",
   "institution_name": "令和８年度　産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業②空港におけるEV・FCV型車両導入事業（二酸化炭素排出抑制対策事業費等補助金）",
-  "summary_src_hash": "4389a61fd861917da36e0e73f026216bc9089833",
-  "summary": "空港内専用車両における電気自動車（EV）または燃料電池自動車（FCV）の導入を支援する補助金です。この事業は、空港における脱炭素化を促進し、2050年のカーボンニュートラルの実現を目指しています。対象となる車両は、事前登録された補助対象車両情報一覧に掲載されたものです。応募資格は民間企業、地方公共団体、一般社団法人・一般財団法人などです。"
+  "summary": "空港内専用車両における電気自動車（EV）または燃料電池自動車（FCV）の導入を支援する補助金です。この事業は、空港における脱炭素化を促進し、2050年のカーボンニュートラルの実現を目指しています。対象となる車両は、事前登録された補助対象車両情報一覧に掲載されたものです。応募資格は民間企業、地方公共団体、一般社団法人・一般財団法人などです。",
+  "summary_src_hash": "4389a61fd861917da36e0e73f026216bc9089833"
  },
  "a0WfQ000003I7vlUAC": {
   "id": "a0WfQ000003I7vlUAC",
@@ -2369,8 +2389,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUmMAP",
   "institution_name": "多様な体験型観光推進事業補助金",
-  "summary_src_hash": "a1ff50602e7d7742e57f0bbfe94338d822209d09",
-  "summary": "この補助金は、美容体験型観光提供事業者が東京の美容技術を外国人旅行者向けの観光コンテンツとして活用する取り組みに対して、経費の一部を補助するものです。対象となる経費には、新たなサービスやコンテンツのための機器・備品購入費、制作費、印刷製本費、翻訳費、施設整備費などが含まれます。"
+  "summary": "この補助金は、美容体験型観光提供事業者が東京の美容技術を外国人旅行者向けの観光コンテンツとして活用する取り組みに対して、経費の一部を補助するものです。対象となる経費には、新たなサービスやコンテンツのための機器・備品購入費、制作費、印刷製本費、翻訳費、施設整備費などが含まれます。",
+  "summary_src_hash": "a1ff50602e7d7742e57f0bbfe94338d822209d09"
  },
  "a0WJ200000CDbyjMAD": {
   "id": "a0WJ200000CDbyjMAD",
@@ -2392,8 +2412,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD",
   "institution_name": "脱炭素成長型経済構造移行推進対策費補助金（ゼロエミッション船等の導入支援事業）",
-  "summary_src_hash": "8321a75fd825622d8d5b3bed4b2f50ff182fc762",
-  "summary": "水素、アンモニア、メタノール及び電力（バッテリー）を推進エネルギー源とするゼロエミッション船等の導入に必要な装置の導入に係る事業に対して補助金が交付される。これにより、我が国海運業におけるCO2排出削減やゼロエミッション船の需要創出を促進し、産業競争力の強化を図ることを目的としている。"
+  "summary": "水素、アンモニア、メタノール及び電力（バッテリー）を推進エネルギー源とするゼロエミッション船等の導入に必要な装置の導入に係る事業に対して補助金が交付される。これにより、我が国海運業におけるCO2排出削減やゼロエミッション船の需要創出を促進し、産業競争力の強化を図ることを目的としている。",
+  "summary_src_hash": "8321a75fd825622d8d5b3bed4b2f50ff182fc762"
  },
  "a0WJ200000CDbyzMAD": {
   "id": "a0WJ200000CDbyzMAD",
@@ -2456,7 +2476,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYC7MAP",
-  "institution_name": "令和８年度ＰＣＢ汚染変圧器高効率化補助金"
+  "institution_name": "令和８年度ＰＣＢ汚染変圧器高効率化補助金",
+  "summary_src_hash": "07723b171a9c9f9eb2ed554ca1335a02e564df97",
+  "summary": "PCBに汚染された変圧器の高効率化を目的とした補助金制度であり、CO2排出削減とPCB廃棄物の早期処理を図る事業に対して交付される。対象事業には、PCB含有の有無の調査や高効率変圧器への交換が含まれる。応募資格は民間企業や法人、個人事業主などで、日本国内で実施される。"
  },
  "a0WJ200000CDc0YMAT": {
   "id": "a0WJ200000CDc0YMAT",
@@ -2499,8 +2521,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX",
   "institution_name": "INPIT外国出願補助金（中間手続補助）",
-  "summary_src_hash": "4a5abaddb16aad109e8bfacc68afc995a4066eba",
-  "summary": "中小企業者や試験研究機関等が、外国における特許、実用新案、意匠、商標の権利取得に要する経費の一部を支援する補助金です。この補助金は、国際的な知的財産戦略の構築を促進することを目的としています。"
+  "summary": "中小企業者や試験研究機関等が、外国における特許、実用新案、意匠、商標の権利取得に要する経費の一部を支援する補助金です。この補助金は、国際的な知的財産戦略の構築を促進することを目的としています。",
+  "summary_src_hash": "4a5abaddb16aad109e8bfacc68afc995a4066eba"
  },
  "a0WJ200000CDbyyMAD": {
   "id": "a0WJ200000CDbyyMAD",
@@ -2565,7 +2587,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddZMAT",
-  "institution_name": "食のまち宗像推進補助金"
+  "institution_name": "食のまち宗像推進補助金",
+  "summary_src_hash": "181f643a2636a339d473d1a7dde36a4bf40d71ff",
+  "summary": "宗像市の食材を活用した販路拡大や域内消費促進を目的とした補助金で、地域特産品の開発や既存商品の改良、食関連イベントの実施に係る経費の一部を支援します。対象事業者は市内に事業所を持ち、税の滞納がないことが求められます。補助金は最大20万円で、補助対象経費の半分が支給されます。"
  },
  "a0WJ200000CDddaMAD": {
   "id": "a0WJ200000CDddaMAD",
@@ -2586,7 +2610,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddaMAD",
-  "institution_name": "宗像市創業応援補助金（“宗業”者応援補助金）"
+  "institution_name": "宗像市創業応援補助金（“宗業”者応援補助金）",
+  "summary_src_hash": "73f7917b97db6e5a915f1a708fb5f25e1010cfa5",
+  "summary": "この補助金は、宗像市内で創業を予定している個人や、創業後1年未満の個人または法人を対象としています。補助対象事業は、実効性が高く需要や雇用を生み出す見込みのある創業に係る事業であり、宗像市商工会またはfabbit宗像の支援を受けた創業事業計画に基づいて実施される必要があります。宗教的活動や政治的活動を目的とする事業、風俗営業に該当する事業、フランチャイズ契約に基づく事業は対象外です。"
  },
  "a0WJ200000CDddbMAD": {
   "id": "a0WJ200000CDddbMAD",
@@ -2607,7 +2633,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddbMAD",
-  "institution_name": "宗像市がんばる中小企業者応援補助金"
+  "institution_name": "宗像市がんばる中小企業者応援補助金",
+  "summary_src_hash": "6ef2e823fffaaa1f4efe54789dc622164ec4610f",
+  "summary": "この補助金は、宗像市内の中小企業者や特定非営利活動法人が行う新事業や販路開拓、生産性向上、人材不足解決、インバウンド観光客対応に係る事業活動に使える。具体的には、新事業への挑戦や展示会出展、設備導入、人材育成などが対象となる。"
  },
  "a0WJ200000CDYq2MAH": {
   "id": "a0WJ200000CDYq2MAH",
@@ -2693,7 +2721,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM",
-  "institution_name": "二酸化炭素排出抑制対策事業費等補助金"
+  "institution_name": "二酸化炭素排出抑制対策事業費等補助金",
+  "summary_src_hash": "09182608b3ec3d397adbfcc12b0054abee5bbe48",
+  "summary": "この補助金は、鉄道事業における省エネ化や回生電力の有効活用を目的とした設備整備事業に利用できます。具体的には、車両の省エネ化を促進する設備の導入や、回生電力を活用する先進的な設備・システムの導入が対象です。これにより、エネルギー起源の二酸化炭素排出量の削減が期待されます。"
  },
  "a0WJ200000CDZi6MAH": {
   "id": "a0WJ200000CDZi6MAH",
@@ -2782,8 +2812,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD",
   "institution_name": "脱炭素成長型経済構造移行推進対策費補助金（業務用建築物の脱炭素改修加速化事業）",
-  "summary_src_hash": "2f9f8ab7c1bb5bab31dba3440ade6e8f70643d92",
-  "summary": "この補助金は、国内の既存業務用建築物において、ZEB基準の省エネ性能を実現するための改修事業に対して支給される。具体的には、断熱窓や断熱材、高効率設備の導入を通じて、脱炭素化を推進する取り組みが対象となる。"
+  "summary": "この補助金は、国内の既存業務用建築物において、ZEB基準の省エネ性能を実現するための改修事業に対して支給される。具体的には、断熱窓や断熱材、高効率設備の導入を通じて、脱炭素化を推進する取り組みが対象となる。",
+  "summary_src_hash": "2f9f8ab7c1bb5bab31dba3440ade6e8f70643d92"
  },
  "a0WJ200000CDdtMMAT": {
   "id": "a0WJ200000CDdtMMAT",
@@ -2825,7 +2855,8 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPLMA1",
-  "institution_name": "久留米市中小企業先端設備等導入支援補助金（令和8年度）"
+  "institution_name": "久留米市中小企業先端設備等導入支援補助金（令和8年度）",
+  "summary_src_hash": "689c99ee67a34e27be8caaa149ad6572eb4197a7"
  },
  "a0WfQ000003aZqLUAU": {
   "id": "a0WfQ000003aZqLUAU",
@@ -2847,8 +2878,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003aZqLUAU",
   "institution_name": "成田空港の次代を担う若者の奨学金返還支援事業補助金",
-  "summary_src_hash": "a5a8ee91bc28c2a2192bb9fec83296927adf1d99",
-  "summary": "成田空港内で働く若者の奨学金返還を支援する事業者に対して補助金が交付されます。この補助金は、奨学金返還支援を行う事業者の拡大や採用力の強化を目的としており、成田空港への就労・定着及び成田市への移住・定住を促進します。対象となる事業者は、従業員に奨学金返還支援制度を設けていることが求められます。"
+  "summary": "成田空港内で働く若者の奨学金返還を支援する事業者に対して補助金が交付されます。この補助金は、奨学金返還支援を行う事業者の拡大や採用力の強化を目的としており、成田空港への就労・定着及び成田市への移住・定住を促進します。対象となる事業者は、従業員に奨学金返還支援制度を設けていることが求められます。",
+  "summary_src_hash": "a5a8ee91bc28c2a2192bb9fec83296927adf1d99"
  },
  "a0WJ200000CDd3OMAT": {
   "id": "a0WJ200000CDd3OMAT",
@@ -3107,8 +3138,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iibVUAQ",
   "institution_name": "小規模事業者持続化補助金＜一般型 災害支援枠＞",
-  "summary_src_hash": "4807633d3ba439686c03df2590fefe18bab63c31",
-  "summary": "この補助金は、令和８年熊本地震による被害を受けた熊本県内の小規模事業者を対象とし、事業再建に向けた取り組みに要する経費の一部を支援するものです。具体的には、生産設備や販売拠点の損壊、顧客や販路の喪失に直面している事業者が対象となります。"
+  "summary": "この補助金は、令和８年熊本地震による被害を受けた熊本県内の小規模事業者を対象とし、事業再建に向けた取り組みに要する経費の一部を支援するものです。具体的には、生産設備や販売拠点の損壊、顧客や販路の喪失に直面している事業者が対象となります。",
+  "summary_src_hash": "4807633d3ba439686c03df2590fefe18bab63c31"
  },
  "a0WfQ000003kEuHUAU": {
   "id": "a0WfQ000003kEuHUAU",
@@ -3130,8 +3161,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003kEuHUAU",
   "institution_name": "小規模事業者持続化補助金＜創業型＞",
-  "summary_src_hash": "666264eb0126ac4eb48cad4f69f20c45545b40e3",
-  "summary": "この補助金は、創業後1年以内の小規模事業者や特定非営利活動法人を対象に、販路開拓や業務効率化に関する取り組みの経費の一部を支援するものです。地域の雇用や産業を支えるため、持続的な経営計画に基づく活動を促進し、生産性向上を図ることを目的としています。"
+  "summary": "この補助金は、創業後1年以内の小規模事業者や特定非営利活動法人を対象に、販路開拓や業務効率化に関する取り組みの経費の一部を支援するものです。地域の雇用や産業を支えるため、持続的な経営計画に基づく活動を促進し、生産性向上を図ることを目的としています。",
+  "summary_src_hash": "666264eb0126ac4eb48cad4f69f20c45545b40e3"
  },
  "a0WJ200000CDVn4MAH": {
   "id": "a0WJ200000CDVn4MAH",
@@ -3194,7 +3225,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rYGLUA2",
-  "institution_name": "二酸化炭素排出抑制対策事業費等補助金"
+  "institution_name": "二酸化炭素排出抑制対策事業費等補助金",
+  "summary_src_hash": "7ee99ab4695f743c6ef480136023cd200e8ef0de",
+  "summary": "この補助金は、地域交通の脱炭素化を目的としたグリーンスローモビリティの導入を支援する事業に対して提供されます。具体的には、時速20km未満で公道を走行できる電動車両の導入に対して補助が行われ、エネルギー起源の二酸化炭素排出量削減が求められます。対象となる法人や団体は、民間企業や地方公共団体など多岐にわたります。"
  },
  "a0WJ200000CDYbNMAX": {
   "id": "a0WJ200000CDYbNMAX",
@@ -3239,8 +3272,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ykxVUAQ",
   "institution_name": "福島県中小企業特別高圧電気料金支援補助金",
-  "summary_src_hash": "ab1c9b81e7886d667dc4831ecf694cdc12ece106",
-  "summary": "特別高圧電気料金補助金は、電気料金の高騰により厳しい経営状況にある福島県内の中小企業を支援するための補助金です。特別高圧電力契約を締結または商業施設で特別高圧電力を使用している企業が対象で、一定期間の電気使用量に応じた負担軽減を目的としています。"
+  "summary": "特別高圧電気料金補助金は、電気料金の高騰により厳しい経営状況にある福島県内の中小企業を支援するための補助金です。特別高圧電力契約を締結または商業施設で特別高圧電力を使用している企業が対象で、一定期間の電気使用量に応じた負担軽減を目的としています。",
+  "summary_src_hash": "ab1c9b81e7886d667dc4831ecf694cdc12ece106"
  },
  "a0WfQ000003qYNFUA2": {
   "id": "a0WfQ000003qYNFUA2",
@@ -3285,8 +3318,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ1GMAX",
   "institution_name": "令和８年度　産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業③空港におけるEV・FCV型車両改造事業（二酸化炭素排出抑制対策事業費等補助金）",
-  "summary_src_hash": "5167518c4ae133099f342018a714bdcda6f4415a",
-  "summary": "空港内専用車両を電気自動車または燃料電池自動車に改造する事業に対する補助金です。この補助金は、空港における脱炭素化を促進し、2050年のカーボンニュートラルの実現を目指しています。対象者は民間企業、地方公共団体、一般社団法人・一般財団法人などです。"
+  "summary": "空港内専用車両を電気自動車または燃料電池自動車に改造する事業に対する補助金です。この補助金は、空港における脱炭素化を促進し、2050年のカーボンニュートラルの実現を目指しています。対象者は民間企業、地方公共団体、一般社団法人・一般財団法人などです。",
+  "summary_src_hash": "5167518c4ae133099f342018a714bdcda6f4415a"
  },
  "a0WJ200000CDVn9MAH": {
   "id": "a0WJ200000CDVn9MAH",
@@ -3433,7 +3466,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7NMAX",
-  "institution_name": "中小企業の外国人従業員に対する研修等支援助成金"
+  "institution_name": "中小企業の外国人従業員に対する研修等支援助成金",
+  "summary_src_hash": "8f12baef231a3b5435986107e9693bc68667fb8c",
+  "summary": "この補助金は、都内の中小企業における外国人従業員の定着を促進するために、日本語教育やビジネスマナー、異文化理解に関する研修に要する経費の一部を助成するものです。対象は、日本語能力試験N2レベル以下の外国人従業員で、助成事業実施期間中に直接雇用されている者です。"
  },
  "a0WJ200000CDK7OMAX": {
   "id": "a0WJ200000CDK7OMAX",
@@ -3454,7 +3489,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7OMAX",
-  "institution_name": "中小企業の外国人従業員に対する研修等支援助成金"
+  "institution_name": "中小企業の外国人従業員に対する研修等支援助成金",
+  "summary_src_hash": "4daa268a7a1732a275ce76a14fbfa544740c9bc0",
+  "summary": "ウクライナ避難民の就労を支援するための補助金で、日本語教育に要する経費を助成します。対象は都内に本社または主たる事業所がある中堅・中小企業で、ウクライナ避難民証明書を持ち、就労可能な在留資格を有する従業員が対象です。助成内容には、日本語教育やビジネスマナー講座、異文化理解に係る講座が含まれます。"
  },
  "a0WJ200000CDNiaMAH": {
   "id": "a0WJ200000CDNiaMAH",
@@ -3581,8 +3618,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX1KMAX",
   "institution_name": "中小企業人材確保のための奨学金返還支援事業登録企業募集要項",
-  "summary_src_hash": "b538721f822d6af4019095f950d15a147b5af6bb",
-  "summary": "この補助金は、東京都内の中小企業が奨学金を受けている大学生等を正規雇用し、1年間継続して在籍させることで、奨学金返還費用の一部を助成するものです。対象となる企業は、建設業、情報通信業、製造業などで、技術者の採用を希望する企業です。"
+  "summary": "この補助金は、東京都内の中小企業が奨学金を受けている大学生等を正規雇用し、1年間継続して在籍させることで、奨学金返還費用の一部を助成するものです。対象となる企業は、建設業、情報通信業、製造業などで、技術者の採用を希望する企業です。",
+  "summary_src_hash": "b538721f822d6af4019095f950d15a147b5af6bb"
  },
  "a0WJ200000CDXEmMAP": {
   "id": "a0WJ200000CDXEmMAP",
@@ -3711,8 +3748,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5",
   "institution_name": "中山間地域所得確保対策",
-  "summary_src_hash": "61743b9573057cdbecfbab3afc3b4e2cb82b6d83",
-  "summary": "中山間地域における農家所得の確保を目的とした補助金で、マーケットや消費者動向の調査、農産物の生産・加工・流通・販売に関する戦略の検討、所得確保計画の策定と実践を支援します。また、高収益作物の導入や関連事業の推進も対象となります。"
+  "summary": "中山間地域における農家所得の確保を目的とした補助金で、マーケットや消費者動向の調査、農産物の生産・加工・流通・販売に関する戦略の検討、所得確保計画の策定と実践を支援します。また、高収益作物の導入や関連事業の推進も対象となります。",
+  "summary_src_hash": "61743b9573057cdbecfbab3afc3b4e2cb82b6d83"
  },
  "a0WJ200000CDYEGMA5": {
   "id": "a0WJ200000CDYEGMA5",
@@ -3734,8 +3771,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEGMA5",
   "institution_name": "働き方改革推進支援助成金",
-  "summary_src_hash": "875f219c2042f793bc661b8e20ec803e1039f93f",
-  "summary": "働き方改革推進支援助成金は、中小企業事業主が生産性向上や労働時間削減に向けた取り組みを支援するための補助金です。具体的には、時間外労働の上限設定、年次有給休暇の取得促進、勤務間インターバル制度の導入などのための研修や機器設備の導入に対して支給されます。"
+  "summary": "働き方改革推進支援助成金は、中小企業事業主が生産性向上や労働時間削減に向けた取り組みを支援するための補助金です。具体的には、時間外労働の上限設定、年次有給休暇の取得促進、勤務間インターバル制度の導入などのための研修や機器設備の導入に対して支給されます。",
+  "summary_src_hash": "875f219c2042f793bc661b8e20ec803e1039f93f"
  },
  "a0WJ200000CDYR2MAP": {
   "id": "a0WJ200000CDYR2MAP",
@@ -3757,8 +3794,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYR2MAP",
   "institution_name": "海外商標対策支援助成事業",
-  "summary_src_hash": "f6554e89c600ade7e0539830640983ccc8936910",
-  "summary": "この助成金は、東京都内の中小企業者が自社ブランドの海外販路拡大を目指す際に、進出予定国での商標権の障害を解消するための経費を支援するものです。具体的には、商標の取消や無効化に関する行政手続き、行政訴訟の経費、弁護士・弁理士の費用、調査経費などが対象となります。"
+  "summary": "この助成金は、東京都内の中小企業者が自社ブランドの海外販路拡大を目指す際に、進出予定国での商標権の障害を解消するための経費を支援するものです。具体的には、商標の取消や無効化に関する行政手続き、行政訴訟の経費、弁護士・弁理士の費用、調査経費などが対象となります。",
+  "summary_src_hash": "f6554e89c600ade7e0539830640983ccc8936910"
  },
  "a0WJ200000CDYUPMA5": {
   "id": "a0WJ200000CDYUPMA5",
@@ -3779,7 +3816,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUPMA5",
-  "institution_name": "フィンテック企業に対する海外進出支援事業"
+  "institution_name": "フィンテック企業に対する海外進出支援事業",
+  "summary_src_hash": "3b6ad7082c81aea880c4e899b926e144d715e732",
+  "summary": "この補助金は、東京都内のフィンテック企業が海外で開催される展示会に共同出展する際に利用できるもので、出展に必要な経費や現地でのネットワーク構築支援、ピッチ機会の提供を含みます。対象となる展示会はシンガポール、インドネシア、タイで開催されるフィンテック関連のイベントです。応募資格は設立10年未満のフィンテック企業で、海外展開を目指す事業を行っていることが求められます。"
  },
  "a0WJ200000CDYUQMA5": {
   "id": "a0WJ200000CDYUQMA5",
@@ -3800,7 +3839,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUQMA5",
-  "institution_name": "フィンテック企業に対する海外進出支援事業"
+  "institution_name": "フィンテック企業に対する海外進出支援事業",
+  "summary_src_hash": "e091a092eb2533171dc65b91150e791332bb4261",
+  "summary": "この補助金は、東京都内のフィンテック企業等が海外進出を支援するためのもので、フィジビリティ調査や海外展示会への出展に関連する経費が対象です。具体的には、調査経費、出展料、ブース設営費用、通訳手配費用、広告宣伝費が補助対象となります。"
  },
  "a0WJ200000CDYh2MAH": {
   "id": "a0WJ200000CDYh2MAH",
@@ -3951,7 +3992,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTCMA1",
-  "institution_name": "躍進的な事業推進のための設備投資支援事業"
+  "institution_name": "躍進的な事業推進のための設備投資支援事業",
+  "summary_src_hash": "8331bb60cc025b2488bd6e3a630da079da67c440",
+  "summary": "東京都中小企業振興公社が実施する補助金は、設備投資に関連する事業に使用できる。具体的には、革新的事業展開、新型コロナウイルス感染症への緊急対策、躍進的な事業推進、新事業展開のための設備投資支援が対象となる。これらの助成金は、事業完了後の報告が求められる。"
  },
  "a0WJ200000CDbHxMAL": {
   "id": "a0WJ200000CDbHxMAL",
@@ -4035,7 +4078,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4iMAD",
-  "institution_name": "中小企業の外国人従業員に対する研修等支援助成金"
+  "institution_name": "中小企業の外国人従業員に対する研修等支援助成金",
+  "summary_src_hash": "8f12baef231a3b5435986107e9693bc68667fb8c",
+  "summary": "この補助金は、都内の中小企業における外国人従業員の定着を促進するために、日本語教育やビジネスマナー、異文化理解に関する講座の経費を助成するものです。対象は、日本語能力試験N2レベル以下の外国人従業員で、直接雇用されている者に限ります。日本語教員による教育や教材作成が含まれ、幅広い活用が可能です。"
  },
  "a0WJ200000CDe4nMAD": {
   "id": "a0WJ200000CDe4nMAD",
@@ -4078,8 +4123,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6YMAT",
   "institution_name": "業務改善助成金",
-  "summary_src_hash": "1f00b5fd8e2a7307181b515dcdbdfe034686adf8",
-  "summary": "業務改善助成金は、中小企業・小規模事業者が生産性向上を図るための設備投資等に対して、その費用の一部を助成する制度です。具体的には、事業場内最低賃金を50円以上引き上げることを条件に、関連する設備投資を行った場合に利用できます。"
+  "summary": "業務改善助成金は、中小企業・小規模事業者が生産性向上を図るための設備投資等に対して、その費用の一部を助成する制度です。具体的には、事業場内最低賃金を50円以上引き上げることを条件に、関連する設備投資を行った場合に利用できます。",
+  "summary_src_hash": "1f00b5fd8e2a7307181b515dcdbdfe034686adf8"
  },
  "a0WJ200000CDe6cMAD": {
   "id": "a0WJ200000CDe6cMAD",
@@ -4101,8 +4146,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6cMAD",
   "institution_name": "業務改善助成金",
-  "summary_src_hash": "0503f98ae5c48a044c0961713f806bc9c5bed50f",
-  "summary": "業務改善助成金は、中小企業・小規模事業者が生産性向上を図るための設備投資等に対して、その費用の一部を助成する制度です。具体的には、事業場内最低賃金を50円以上引き上げることを条件に、関連する設備投資を行った場合に適用されます。"
+  "summary": "業務改善助成金は、中小企業・小規模事業者が生産性向上を図るための設備投資等に対して、その費用の一部を助成する制度です。具体的には、事業場内最低賃金を50円以上引き上げることを条件に、関連する設備投資を行った場合に適用されます。",
+  "summary_src_hash": "0503f98ae5c48a044c0961713f806bc9c5bed50f"
  },
  "a0WJ200000CDe6CMAT": {
   "id": "a0WJ200000CDe6CMAT",
@@ -4146,7 +4191,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdueMAD",
-  "institution_name": "業務改善助成金"
+  "institution_name": "業務改善助成金",
+  "summary_src_hash": "499df4cfea27b94890a7b90f6ad1ef78552938f1",
+  "summary": "業務改善助成金は、中小企業・小規模事業者が生産性向上を図るための設備投資等に対して、その費用の一部を助成する制度です。具体的には、事業場内最低賃金を50円以上引き上げることを条件に、関連する設備投資を行った場合に適用されます。"
  },
  "a0WJ200000CDe6WMAT": {
   "id": "a0WJ200000CDe6WMAT",
@@ -4191,8 +4238,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ao2zUAA",
   "institution_name": "事業承継支援助成金",
-  "summary_src_hash": "c404e35f7b1a220d3ea8175bcdd658b215d44fb3",
-  "summary": "この助成金は、都内の中小企業者や創業予定者が、事業承継や経営改善を進めるために外部の専門家に委託する取り組みに対して、その経費の一部を助成するものです。具体的には、事業承継・再生支援や地域持続化支援、地域金融機関による支援など、様々な支援を受けた企業が対象となります。"
+  "summary": "この助成金は、都内の中小企業者や創業予定者が、事業承継や経営改善を進めるために外部の専門家に委託する取り組みに対して、その経費の一部を助成するものです。具体的には、事業承継・再生支援や地域持続化支援、地域金融機関による支援など、様々な支援を受けた企業が対象となります。",
+  "summary_src_hash": "c404e35f7b1a220d3ea8175bcdd658b215d44fb3"
  },
  "a0WfQ0000040nWHUAY": {
   "id": "a0WfQ0000040nWHUAY",
@@ -4340,8 +4387,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXvUMAX",
   "institution_name": "東京都医療ＤＸ人材育成支援事業",
-  "summary_src_hash": "befe22e3cff7567a72988c1e25bd5739f3def934",
-  "summary": "この補助金は、東京都内の病院や医科診療所において、職員のIT・DXに関する資格取得に係る経費を支援することを目的としています。具体的には、電子カルテの操作や医療DXに関連する知識・技能を有する人材の育成を図り、デジタル技術の導入を支援します。"
+  "summary": "この補助金は、東京都内の病院や医科診療所において、職員のIT・DXに関する資格取得に係る経費を支援することを目的としています。具体的には、電子カルテの操作や医療DXに関連する知識・技能を有する人材の育成を図り、デジタル技術の導入を支援します。",
+  "summary_src_hash": "befe22e3cff7567a72988c1e25bd5739f3def934"
  },
  "a0WJ200000CDOsKMAX": {
   "id": "a0WJ200000CDOsKMAX",
@@ -4474,8 +4521,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ot1BUAQ",
   "institution_name": "商店街防災力向上緊急支援事業",
-  "summary_src_hash": "44d362614d894bffd2de35274638b3cacecc398d",
-  "summary": "この補助金は、首都直下地震などの大規模な自然災害に備え、都内の商店街が地域の防災力向上や来街者・地域住民の安全確保に取り組むための経費を助成するものです。"
+  "summary": "この補助金は、首都直下地震などの大規模な自然災害に備え、都内の商店街が地域の防災力向上や来街者・地域住民の安全確保に取り組むための経費を助成するものです。",
+  "summary_src_hash": "44d362614d894bffd2de35274638b3cacecc398d"
  },
  "a0WfQ000003rLvpUAE": {
   "id": "a0WfQ000003rLvpUAE",
@@ -4499,6 +4546,29 @@
   "institution_name": "躍進的な事業推進のための設備投資支援事業",
   "summary": "この補助金は、東京都内の中小企業が「製品・サービスの質的向上」や「生産能力の拡大」を目的とした設備投資に使えるもので、機械設備等の導入経費の一部を助成します。対象は量産フェーズの事業で、助成率は1/2以内から4/5以内、助成限度額は最大二億円です。",
   "summary_src_hash": "7b9157cc0980c61e687bb0e18b6f6aa9dee7ed94"
+ },
+ "a0WJ200000CDQuHMAX": {
+  "id": "a0WJ200000CDQuHMAX",
+  "name": "S-00006942",
+  "title": "令和７年度ＮＢＣ災害・テロ対策設備整備補助事業",
+  "subsidy_catch_phrase": null,
+  "detail": "<p><strong style=\"color: rgb(0, 0, 0);\">■目的・概要</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">ＮＢＣ(核・生物剤・化学剤)災害及びテロの発生時において、医療機関による円滑な医療活動が実施できるよう、災害・救急医療提供体制の整備を図ること</strong></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">■根拠法令</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">ＮＢＣ災害・テロ対策設備整備費補助金交付要綱</strong></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">■応募資格</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">東京都災害拠点病院の開設者。ただし、国及び東京都を除く。</strong></p><p><br></p><p><strong>■「手続サクサクプロジェクト」への参加のお願い</strong></p><p><strong>本申請においてご提供いただいた法人情報等について、東京都によるデータ収集にご同意いただいた場合は、今後、東京都及び東京都政策連携団体、東京都事業協力団体が行う各種補助金等の申請手続の際にデータ入力を省略可能とする取組に利用させていただきます。</strong></p><p><strong>東京都によるデータ収集に関する同意について、ご理解ご協力のほど、よろしくお願いいたします。</strong></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">■問合せ先</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">保健医療局 医療政策部 救急災害医療課 災害医療担当　</strong><strong style=\"color: rgb(0, 0, 0); font-size: 12.8px;\">井上</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">電話（直通）０３－５３２０－４４４５</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">E-mail：</strong><strong style=\"font-size: 12.8px;\">Tsubasa_Inoue@member.metro.tokyo.jp﻿</strong></p>",
+  "use_purpose": "イベント・事業運営支援がほしい",
+  "industry": "医療、福祉",
+  "target_area_search": "東京都",
+  "target_area_detail": null,
+  "target_number_of_employees": "従業員数の制約なし",
+  "subsidy_rate": "交付要綱等を参照とする",
+  "subsidy_max_limit": 33762000,
+  "acceptance_start_datetime": "2025-11-03T15:00Z",
+  "acceptance_end_datetime": "2026-12-30T15:00Z",
+  "project_end_deadline": "2027-03-30T15:00Z",
+  "request_reception_presence": "有",
+  "is_enable_multiple_request": true,
+  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQuHMAX",
+  "institution_name": "NBC災害・テロ対策設備整備費補助事業",
+  "summary_src_hash": "1eeab661ec0b785efe9ae53937bf7964ff452cab",
+  "summary": "この補助金は、ＮＢＣ（核・生物剤・化学剤）災害及びテロ発生時における医療機関の円滑な医療活動を支援するため、東京都災害拠点病院の開設者を対象に、災害・救急医療提供体制の整備を目的としています。"
  },
  "a0WJ200000CDYSFMA5": {
   "id": "a0WJ200000CDYSFMA5",
@@ -4624,7 +4694,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUlMAP",
-  "institution_name": "誰もが楽しめる自然体験型観光推進事業"
+  "institution_name": "誰もが楽しめる自然体験型観光推進事業",
+  "summary_src_hash": "a5c0728380241dfc301230f7c51a0edec47b6114",
+  "summary": "この補助金は、障害者等が東京の自然を楽しむための体験型観光を推進する事業者に対して、障害者向け備品の購入経費や改造費用の一部を補助するものです。対象は、都内で自然体験型観光プログラムを企画・運営する事業者や、必要な備品を無償で貸出す観光協会等です。"
  },
  "a0WJ200000CDeYjMAL": {
   "id": "a0WJ200000CDeYjMAL",
@@ -4667,8 +4739,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXyuMAH",
   "institution_name": "令和8年度 資源循環分野の脱炭素化促進事業",
-  "summary_src_hash": "4b394abf4d090e23d9fa84ba05480bd5f8530ae3",
-  "summary": "この補助金は、海外における廃棄物の収集・運搬、中間処理、リサイクル、最終処分事業に関連するもので、特にエネルギー起源CO2の排出削減に寄与する事業に使用できます。また、これらの事業を実施するための施設を建設する事業も対象となります。主にJCMパートナー国やAZECパートナー国での展開を促進することを目的としています。"
+  "summary": "この補助金は、海外における廃棄物の収集・運搬、中間処理、リサイクル、最終処分事業に関連するもので、特にエネルギー起源CO2の排出削減に寄与する事業に使用できます。また、これらの事業を実施するための施設を建設する事業も対象となります。主にJCMパートナー国やAZECパートナー国での展開を促進することを目的としています。",
+  "summary_src_hash": "4b394abf4d090e23d9fa84ba05480bd5f8530ae3"
  },
  "a0WJ200000CDXkJMAX": {
   "id": "a0WJ200000CDXkJMAX",
@@ -4821,7 +4893,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY7KMAX",
-  "institution_name": "住宅・建築物カーボンニュートラル総合推進事業"
+  "institution_name": "住宅・建築物カーボンニュートラル総合推進事業",
+  "summary_src_hash": "1c74c55535e1579e94318c8f72ba2a4570c2cd28",
+  "summary": "本補助金は、建築物のライフサイクルカーボン評価（LCCO2評価）を実施し、LCCO2削減を推進する事業や、建築業界全体の生産性向上を目指すプロジェクトに利用できます。具体的には、複数の事業者が連携して建築BIMデータを作成する際の設計費や建設工事費、LCCO2評価の実施費用が補助対象となります。大規模から小規模、改修プロジェクトまで幅広く対応しています。"
  },
  "a0WJ200000CDdfpMAD": {
   "id": "a0WJ200000CDdfpMAD",
@@ -4842,7 +4916,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdfpMAD",
-  "institution_name": "令和８年度　観光産業の活性化促進事業"
+  "institution_name": "令和８年度　観光産業の活性化促進事業",
+  "summary_src_hash": "41c71ea2cd811f1481a334c79333c4a86db885f9",
+  "summary": "観光産業の活性化を目的とした補助金で、観光関連業界団体や都内の観光関連事業者グループが対象です。支援内容には、生産性向上、新サービス開発、情報発信などの取り組みが含まれます。応募資格として、中小企業の観光関連事業者がグループの半数以上を占める必要があります。"
  },
  "a0WJ200000CDdNtMAL": {
   "id": "a0WJ200000CDdNtMAL",
@@ -4864,8 +4940,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdNtMAL",
   "institution_name": "障害者施設等物価高騰緊急対策事業",
-  "summary_src_hash": "98afe8407a7c2df91a4881b293fde98a00c68c31",
-  "summary": "この補助金は、物価高騰に直面する障害者施設の負担軽減を目的として支給されます。対象となる事業は、障害者支援施設や福祉型障害児入所施設、生活介護、就労支援など多岐にわたり、障害者総合支援法または障害福祉法に基づく指定を受けている都内の施設が対象です。"
+  "summary": "この補助金は、物価高騰に直面する障害者施設の負担軽減を目的として支給されます。対象となる事業は、障害者支援施設や福祉型障害児入所施設、生活介護、就労支援など多岐にわたり、障害者総合支援法または障害福祉法に基づく指定を受けている都内の施設が対象です。",
+  "summary_src_hash": "98afe8407a7c2df91a4881b293fde98a00c68c31"
  },
  "a0WJ200000CDYnpMAH": {
   "id": "a0WJ200000CDYnpMAH",
@@ -4972,7 +5048,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ2OMAX",
-  "institution_name": "住宅・建築物カーボンニュートラル総合推進事業"
+  "institution_name": "住宅・建築物カーボンニュートラル総合推進事業",
+  "summary_src_hash": "db8ab6e23b3d192bba810382ac11096c5987f08b",
+  "summary": "本補助金は、建築物のライフサイクルカーボン評価（LCCO₂評価）を実施し、LCCO₂削減を推進する事業や、建築業界全体の生産性向上を目指すプロジェクトに利用できます。具体的には、複数の事業者が連携して建築BIMデータを作成する際の設計費や建設工事費、LCCO₂評価の実施費用が対象となります。大規模から小規模、改修プロジェクトまで幅広く対応しています。"
  },
  "a0WfQ000003ZH5uUAG": {
   "id": "a0WfQ000003ZH5uUAG",
@@ -5035,7 +5113,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ePpBUAU",
-  "institution_name": "東京都入退院時連携強化事業"
+  "institution_name": "東京都入退院時連携強化事業",
+  "summary_src_hash": "801a1f069609c8e8f73989d0e44af11cb3d85d70",
+  "summary": "この補助金は、医療機関における入退院支援を担当する看護師や社会福祉士の人件費を支援するもので、入退院時の地域連携を強化し、在宅療養への移行を促進することを目的としています。対象は、200床未満の病院で、特定の研修を修了した職員の人件費が補助されます。"
  },
  "a0WJ200000CDe82MAD": {
   "id": "a0WJ200000CDe82MAD",
@@ -5208,8 +5288,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003pvCDUAY",
   "institution_name": "重要鉱物に係るサプライチェーン強靱化事業",
-  "summary_src_hash": "1eabe44bd0363966c8d29527baf12456dfde98f1",
-  "summary": "この補助金は、経済安全保障の観点から重要鉱物部素材や原材料の安定調達を目的とし、調達ルートの切替やサンプル評価に伴う費用の一部を支援します。これにより、重要なサプライチェーンの供給途絶リスクへの対応体制を強化することを目指しています。"
+  "summary": "この補助金は、経済安全保障の観点から重要鉱物部素材や原材料の安定調達を目的とし、調達ルートの切替やサンプル評価に伴う費用の一部を支援します。これにより、重要なサプライチェーンの供給途絶リスクへの対応体制を強化することを目指しています。",
+  "summary_src_hash": "1eabe44bd0363966c8d29527baf12456dfde98f1"
  },
  "a0WfQ000003ohEXUAY": {
   "id": "a0WfQ000003ohEXUAY",
@@ -5254,8 +5334,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ",
   "institution_name": "建築物等のZEB化・省CO2化普及加速事業",
-  "summary_src_hash": "793f5b1b5212275965a57ec3919f30b330da3f84",
-  "summary": "業務用建築物のネット・ゼロ・エネルギー化を目指す事業に使える補助金です。具体的には、省エネ・省CO2性の高いシステムや設備機器、低炭素型建材の導入を支援します。対象は地方公共団体等所有施設や民間業務用建築物で、温室効果ガスの算定・削減を目指す取り組みの普及を促進します。"
+  "summary": "業務用建築物のネット・ゼロ・エネルギー化を目指す事業に使える補助金です。具体的には、省エネ・省CO2性の高いシステムや設備機器、低炭素型建材の導入を支援します。対象は地方公共団体等所有施設や民間業務用建築物で、温室効果ガスの算定・削減を目指す取り組みの普及を促進します。",
+  "summary_src_hash": "793f5b1b5212275965a57ec3919f30b330da3f84"
  },
  "a0WJ200000CDap3MAD": {
   "id": "a0WJ200000CDap3MAD",
@@ -5340,27 +5420,6 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVm7MAH",
   "institution_name": "令和７年度病院勤務者勤務環境改善事業"
- },
- "a0WJ200000CDQuHMAX": {
-  "id": "a0WJ200000CDQuHMAX",
-  "name": "S-00006942",
-  "title": "令和７年度ＮＢＣ災害・テロ対策設備整備補助事業",
-  "subsidy_catch_phrase": null,
-  "detail": "<p><strong style=\"color: rgb(0, 0, 0);\">■目的・概要</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">ＮＢＣ(核・生物剤・化学剤)災害及びテロの発生時において、医療機関による円滑な医療活動が実施できるよう、災害・救急医療提供体制の整備を図ること</strong></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">■根拠法令</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">ＮＢＣ災害・テロ対策設備整備費補助金交付要綱</strong></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">■応募資格</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">東京都災害拠点病院の開設者。ただし、国及び東京都を除く。</strong></p><p><br></p><p><strong>■「手続サクサクプロジェクト」への参加のお願い</strong></p><p><strong>本申請においてご提供いただいた法人情報等について、東京都によるデータ収集にご同意いただいた場合は、今後、東京都及び東京都政策連携団体、東京都事業協力団体が行う各種補助金等の申請手続の際にデータ入力を省略可能とする取組に利用させていただきます。</strong></p><p><strong>東京都によるデータ収集に関する同意について、ご理解ご協力のほど、よろしくお願いいたします。</strong></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">■問合せ先</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">保健医療局 医療政策部 救急災害医療課 災害医療担当　</strong><strong style=\"color: rgb(0, 0, 0); font-size: 12.8px;\">井上</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">電話（直通）０３－５３２０－４４４５</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">E-mail：</strong><strong style=\"font-size: 12.8px;\">Tsubasa_Inoue@member.metro.tokyo.jp﻿</strong></p>",
-  "use_purpose": "イベント・事業運営支援がほしい",
-  "industry": "医療、福祉",
-  "target_area_search": "東京都",
-  "target_area_detail": null,
-  "target_number_of_employees": "従業員数の制約なし",
-  "subsidy_rate": "交付要綱等を参照とする",
-  "subsidy_max_limit": 33762000,
-  "acceptance_start_datetime": "2025-11-03T15:00Z",
-  "acceptance_end_datetime": "2026-12-30T15:00Z",
-  "project_end_deadline": "2027-03-30T15:00Z",
-  "request_reception_presence": "有",
-  "is_enable_multiple_request": true,
-  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQuHMAX",
-  "institution_name": "NBC災害・テロ対策設備整備費補助事業"
  },
  "a0WJ200000CDNhQMAX": {
   "id": "a0WJ200000CDNhQMAX",
