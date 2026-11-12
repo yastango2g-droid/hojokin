@@ -659,8 +659,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYsSMAX",
   "institution_name": "【三重県鈴鹿市】創業促進補助金",
-  "summary_src_hash": "a7a80a1012b01af72d0b1cd82c179bdc256d4b46",
-  "summary": "鈴鹿市では、創業時の初期経費を最大30万円補助する制度があります。この補助金は、令和7年4月1日以降に市内で新たに創業し、「特定創業支援等事業による支援を受けたことの証明」を持つ市民が対象です。補助金は、創業日の1年前から創業日までに納品が完了した経費に適用されます。"
+  "summary": "鈴鹿市では、創業時の初期経費を最大30万円補助する制度があります。この補助金は、令和7年4月1日以降に市内で新たに創業し、「特定創業支援等事業による支援を受けたことの証明」を持つ市民が対象です。補助金は、創業日の1年前から創業日までに納品が完了した経費に適用されます。",
+  "summary_src_hash": "a7a80a1012b01af72d0b1cd82c179bdc256d4b46"
  },
  "a0WJ200000CDXqMMAX": {
   "id": "a0WJ200000CDXqMMAX",
@@ -911,8 +911,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1GMAX",
   "institution_name": "【長野県茅野市】中小企業振興補助金（商業関係）",
-  "summary_src_hash": "e09bc758cec2973a7499b76560b392b228427df6",
-  "summary": "茅野市では、商業団体等が主導する商店街の活性化や環境整備を支援する補助金制度があります。対象となる事業には、高度化事業、商店街活性化事業、商店街共同施設設置事業、空き店舗等活用事業、既存老朽化物件取壊事業、商店街振興計画策定事業が含まれます。特に空き店舗等活用事業では、新規出店やコミュニティ施設の設置が支援されます。"
+  "summary": "茅野市では、商業団体等が主導する商店街の活性化や環境整備を支援する補助金制度があります。対象となる事業には、高度化事業、商店街活性化事業、商店街共同施設設置事業、空き店舗等活用事業、既存老朽化物件取壊事業、商店街振興計画策定事業が含まれます。特に空き店舗等活用事業では、新規出店やコミュニティ施設の設置が支援されます。",
+  "summary_src_hash": "e09bc758cec2973a7499b76560b392b228427df6"
  },
  "a0WJ200000CDXORMA5": {
   "id": "a0WJ200000CDXORMA5",
@@ -957,8 +957,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1fMAH",
   "institution_name": "【長野県茅野市】新商品開発事業補助金",
-  "summary_src_hash": "f80363d93163df2ddb17852205e8b1ab43e3dc45",
-  "summary": "茅野市内の中小企業者が、地域資源や観光資源を活用して新商品を開発する際に、その経費の一部を補助する制度です。対象商品は一般消費者向けで、高い品質や市場性、革新性が求められます。商品の開発前に計画届の提出が必要で、補助金の交付は審査会で決定されます。"
+  "summary": "茅野市内の中小企業者が、地域資源や観光資源を活用して新商品を開発する際に、その経費の一部を補助する制度です。対象商品は一般消費者向けで、高い品質や市場性、革新性が求められます。商品の開発前に計画届の提出が必要で、補助金の交付は審査会で決定されます。",
+  "summary_src_hash": "f80363d93163df2ddb17852205e8b1ab43e3dc45"
  },
  "a0WJ200000CDY96MAH": {
   "id": "a0WJ200000CDY96MAH",
@@ -1003,8 +1003,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDacWMAT",
   "institution_name": "原子力発電施設等の周辺地域における大規模開発地区への企業立地促進事業費補助金",
-  "summary_src_hash": "b3c14b051b1eefc578db7ffb02604812a5694ddf",
-  "summary": "この補助金は、原子力発電施設等の周辺地域に立地する企業が用地取得にかかる費用の一部を補助するもので、企業の立地促進を通じて電源地域の振興を図ることを目的としています。応募資格には、用地取得後3年以内に操業が見込まれ、操業開始後1年以内に5人以上の雇用創出が求められます。"
+  "summary": "この補助金は、原子力発電施設等の周辺地域に立地する企業が用地取得にかかる費用の一部を補助するもので、企業の立地促進を通じて電源地域の振興を図ることを目的としています。応募資格には、用地取得後3年以内に操業が見込まれ、操業開始後1年以内に5人以上の雇用創出が求められます。",
+  "summary_src_hash": "b3c14b051b1eefc578db7ffb02604812a5694ddf"
  },
  "a0WJ200000CDX4vMAH": {
   "id": "a0WJ200000CDX4vMAH",
@@ -1164,8 +1164,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYu3MAH",
   "institution_name": "休廃止鉱山鉱害防止等工事費補助金",
-  "summary_src_hash": "89e8dc335627ece9446cc6278824d4dca19b0f6c",
-  "summary": "休廃止鉱山に係る鉱害及び危害を防止するための工事や坑廃水処理に要する経費の一部を補助する事業です。対象は、無資力または現存しない鉱山の鉱害防止工事を行う地方公共団体や、坑廃水処理事業者が実施する事業で、特定の条件を満たすものに限られます。"
+  "summary": "休廃止鉱山に係る鉱害及び危害を防止するための工事や坑廃水処理に要する経費の一部を補助する事業です。対象は、無資力または現存しない鉱山の鉱害防止工事を行う地方公共団体や、坑廃水処理事業者が実施する事業で、特定の条件を満たすものに限られます。",
+  "summary_src_hash": "89e8dc335627ece9446cc6278824d4dca19b0f6c"
  },
  "a0WJ200000CDYW5MAP": {
   "id": "a0WJ200000CDYW5MAP",
@@ -1301,8 +1301,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYSKMA5",
   "institution_name": "廃止石油坑井封鎖事業費補助金",
-  "summary_src_hash": "2acd4a21d15a50e9f226fc356d1a0ffb8af271fe",
-  "summary": "この補助金は、地方公共団体が廃止石油鉱山において、漏油等の鉱害が発生または発生のおそれがある坑井に対して実施する封鎖工事に要する経費の一部を補助するものです。目的は、廃止石油坑井に係る鉱害を防止し、石油の安定的かつ低廉な供給を確保することです。"
+  "summary": "この補助金は、地方公共団体が廃止石油鉱山において、漏油等の鉱害が発生または発生のおそれがある坑井に対して実施する封鎖工事に要する経費の一部を補助するものです。目的は、廃止石油坑井に係る鉱害を防止し、石油の安定的かつ低廉な供給を確保することです。",
+  "summary_src_hash": "2acd4a21d15a50e9f226fc356d1a0ffb8af271fe"
  },
  "a0WJ200000CDYimMAH": {
   "id": "a0WJ200000CDYimMAH",
@@ -1345,8 +1345,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYuSMAX",
   "institution_name": "休廃止鉱山鉱害防止等工事費補助金",
-  "summary_src_hash": "96a0680396628e99b63e2f378dbaef14b6bd38bb",
-  "summary": "休廃止鉱山に関連する鉱害や危害を防止するための工事を行う地方公共団体や、坑廃水処理を実施する事業者に対して、その経費の一部を補助することを目的とした補助金です。対象となるのは、無資力の鉱山や採掘活動が終了した鉱山に関する事業です。"
+  "summary": "休廃止鉱山に関連する鉱害や危害を防止するための工事を行う地方公共団体や、坑廃水処理を実施する事業者に対して、その経費の一部を補助することを目的とした補助金です。対象となるのは、無資力の鉱山や採掘活動が終了した鉱山に関する事業です。",
+  "summary_src_hash": "96a0680396628e99b63e2f378dbaef14b6bd38bb"
  },
  "a0WJ200000CDXjyMAH": {
   "id": "a0WJ200000CDXjyMAH",
@@ -1391,8 +1391,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjzMAH",
   "institution_name": "【福井県】次世代自動車普及促進事業補助金",
-  "summary_src_hash": "f41a79276e0890a3715fe44703c0d2e924d97526",
-  "summary": "福井県内の運輸部門における温室効果ガス排出量削減を目的とした補助金で、電気自動車（EV）、プラグインハイブリッド自動車（PHV）、燃料電池自動車（FCV）の自家用導入に対して購入経費の一部を補助します。申請者は県内に住所を有する個人事業者や法人で、経済産業省の補助金交付決定を受けている必要があります。"
+  "summary": "福井県内の運輸部門における温室効果ガス排出量削減を目的とした補助金で、電気自動車（EV）、プラグインハイブリッド自動車（PHV）、燃料電池自動車（FCV）の自家用導入に対して購入経費の一部を補助します。申請者は県内に住所を有する個人事業者や法人で、経済産業省の補助金交付決定を受けている必要があります。",
+  "summary_src_hash": "f41a79276e0890a3715fe44703c0d2e924d97526"
  },
  "a0WJ200000CDXk8MAH": {
   "id": "a0WJ200000CDXk8MAH",
@@ -1483,8 +1483,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYuhMAH",
   "institution_name": "休廃止鉱山鉱害防止等工事費補助金",
-  "summary_src_hash": "8c8e2b50a09b0a62900b12bd91ae2a0d1ab32b19",
-  "summary": "休廃止鉱山に係る鉱害及び危害を防止するための工事や坑廃水処理に要する経費の一部を補助する事業です。対象は、無資力または現存しない鉱山の鉱害防止工事を行う地方公共団体や、坑廃水処理事業者が実施する事業で、特定の条件を満たすものに限られます。"
+  "summary": "休廃止鉱山に係る鉱害及び危害を防止するための工事や坑廃水処理に要する経費の一部を補助する事業です。対象は、無資力または現存しない鉱山の鉱害防止工事を行う地方公共団体や、坑廃水処理事業者が実施する事業で、特定の条件を満たすものに限られます。",
+  "summary_src_hash": "8c8e2b50a09b0a62900b12bd91ae2a0d1ab32b19"
  },
  "a0WJ200000CDYviMAH": {
   "id": "a0WJ200000CDYviMAH",
@@ -1529,8 +1529,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYucMAH",
   "institution_name": "休廃止鉱山鉱害防止等工事費補助金",
-  "summary_src_hash": "da7010af5aa2198c687d2d783023fc6d17031f4a",
-  "summary": "休廃止鉱山に係る鉱害及び危害を防止するための工事や坑廃水処理に要する経費の一部を補助する事業です。対象は、無資力または現存しない鉱山の鉱害防止工事を行う地方公共団体や、坑廃水処理事業者が実施する事業で、特定の条件を満たすものに限られます。"
+  "summary": "休廃止鉱山に係る鉱害及び危害を防止するための工事や坑廃水処理に要する経費の一部を補助する事業です。対象は、無資力または現存しない鉱山の鉱害防止工事を行う地方公共団体や、坑廃水処理事業者が実施する事業で、特定の条件を満たすものに限られます。",
+  "summary_src_hash": "da7010af5aa2198c687d2d783023fc6d17031f4a"
  },
  "a0WJ200000CDYumMAH": {
   "id": "a0WJ200000CDYumMAH",
@@ -1552,8 +1552,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYumMAH",
   "institution_name": "休廃止鉱山鉱害防止等工事費補助金",
-  "summary_src_hash": "14a1ec4635b5d34bdb7e0bcf184767aa73712a1b",
-  "summary": "休廃止鉱山に係る鉱害及び危害を防止するための工事や坑廃水処理に要する経費の一部を補助する事業です。対象は、無資力または現存しない鉱山の鉱害防止工事を行う地方公共団体や、坑廃水処理事業者が実施する事業で、特定の条件を満たすものに限られます。"
+  "summary": "休廃止鉱山に係る鉱害及び危害を防止するための工事や坑廃水処理に要する経費の一部を補助する事業です。対象は、無資力または現存しない鉱山の鉱害防止工事を行う地方公共団体や、坑廃水処理事業者が実施する事業で、特定の条件を満たすものに限られます。",
+  "summary_src_hash": "14a1ec4635b5d34bdb7e0bcf184767aa73712a1b"
  },
  "a0WJ200000CDYvnMAH": {
   "id": "a0WJ200000CDYvnMAH",
@@ -1598,8 +1598,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYurMAH",
   "institution_name": "休廃止鉱山鉱害防止等工事費補助金",
-  "summary_src_hash": "c2fefef1684208500f6057400a4649c956613611",
-  "summary": "休廃止鉱山に係る鉱害及び危害を防止するための工事や坑廃水処理に要する経費の一部を補助する事業です。対象は、無資力または現存しない鉱山の鉱害防止工事を行う地方公共団体や、坑廃水処理事業者が実施する事業で、特定の条件を満たすものに限られます。"
+  "summary": "休廃止鉱山に係る鉱害及び危害を防止するための工事や坑廃水処理に要する経費の一部を補助する事業です。対象は、無資力または現存しない鉱山の鉱害防止工事を行う地方公共団体や、坑廃水処理事業者が実施する事業で、特定の条件を満たすものに限られます。",
+  "summary_src_hash": "c2fefef1684208500f6057400a4649c956613611"
  },
  "a0WJ200000CDYvQMAX": {
   "id": "a0WJ200000CDYvQMAX",
@@ -1668,6 +1668,29 @@
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvRMAX",
   "institution_name": "岸和田市オフィス誘致補助金",
   "summary_src_hash": "18adccd3646f4098573a155106fde06013f6a02f"
+ },
+ "a0WfQ000004CHdtUAG": {
+  "id": "a0WfQ000004CHdtUAG",
+  "name": "S-00010055",
+  "title": "四日市市中小企業脱炭素経営支援事業費補助金",
+  "subsidy_catch_phrase": "四日市市では、市内の中小企業者が取り組む温室効果ガスの排出量算定、削減計画の策定及びＳＢＴ認定取得に要する経費の一部を補助することにより、中小企業者等による脱炭素経営の推進を支援します。",
+  "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>市内の中小企業者が取り組む温室効果ガスの排出量算定、削減計 画の策定及びＳＢＴ認定取得に要する経費の一部を補助することにより、中小企業者 による脱炭素経営の推進に資することを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/files/youkou.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/files/youkou.pdf</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>主たる事業所（国内における従業員総数の２分の１以上の従業員が常時勤務している事業所をいう。）を市内に有し、かつ、市内において１年以上事業を営む次の１～４に掲げる要件をすべて満たす者とする。</p><ol><li><strong>中小企業者</strong>（中小企業基本法(昭和38年法律第154号)第２条第１項に規定する中小企業者をいう。）又は<strong>小規模企業者</strong>（中小企業基本法第２条第５項に規定する小規模企業者をいう。）</li><li>本市に納税義務のある市税に滞納がないこと。</li><li>事業所において行う事業が次のいずれにも該当しないこと。</li><li>（１）風俗営業等の規制及び業務の適正化等に関する法律（昭和 23 年法律第 122 号）に基づき、営業の許可又は届出を要する事業</li><li>（２）宗教活動又は政治活動を目的とする事業</li><li>（３）公序良俗に反する等、市長が不適当と認める事業</li><li>次に掲げるいずれかに該当しないこと。</li><li>（１）次に掲げるいずれかの法人</li><li>ア．暴力団（四日市市市暴力団排除条例（平成23年四日市市市条例第９号）第２条第１号に規定する暴力団をいう。以下同じ。）である者</li><li>イ．当該法人の役員が暴力団員（四日市市市暴力団排除条例（平成23年四日市市市条例第９号）第２条第２号に規定する暴力団員をいう。以下同じ。）である者</li><li>ウ．暴力団又は暴力団員と密接な関係を有する者</li><li>（２）次に掲げるいずれかの個人</li><li>ア．暴力団員である者</li><li>イ．暴力団又は暴力団員と密接な関係を有する者</li><li> </li></ol><p>注：ただし、下記のいずれかに該当する場合は対象になりません。</p><ul><li>発行済株式又は出資の総数又は総額の２分の１以上が同一の大規模法人（資本金の額又は出資の総額が３億円を超える会社並びに常時使用する従業員が300人を超える法人をいう。次についても同じ。）の所有に属しているもの。</li><li>発行済株式又は出資の総数又は総額の３分の２以上が大規模法人の所有に属しているもの。</li></ul><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p><span style=\"font-size: 12.8px;\">主たる事業所（国内における従業員総数の２分の１以上の従業員が常時勤務している事業所をいう。）を市内に有していること。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p><strong>補助対象事業</strong></p><p><span style=\"font-size: 12.8px;\">○</span>現状把握及び計画策定事業</p><p><span style=\"font-size: 12.8px;\">○</span>ＳＢＴ認定取得事業</p><p><br></p><p><strong>補助対象経費</strong></p><p>○支援機関等へ支払う経費 ・コンサルタントに係る経費 ・診断及び分析に係る経費 </p><p>○ソフトウェア等導入経費 ・システムソフトウェア導入に係る経費 ・クラウドサービス利用に係る経費</p><p>○中小企業向けＳＢＴ認定取得の申請に係る経費 </p><p>○その他市長が適当と認める経費\t</p><p><br></p><p>申請する際は、下記の書類を環境政策課へ提出してください。</p><p>なお、交付申請及び実績報告の際には、申請内容についてヒアリングを行いますので、申請前に必ずご連絡ください。</p><p>ヒアリングの日程調整を行わせていただきます。</p><p><br></p><h3><span style=\"font-size: 13px;\">（１）交付申請について</span></h3><p><strong style=\"font-size: 13px;\">補助対象事業に着手する前に</strong><span style=\"font-size: 13px;\">、次の書類を揃えてご申請ください。</span></p><ul><li><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/simple/kouhusinseisyo.doc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(20, 70, 95); font-size: 13px;\">交付申請書（第１号様式）</a></li><li><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/simple/zigyoukeikakusyo.doc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(20, 70, 95); font-size: 13px;\">事業計画書（第１号様式　別紙１）</a></li><li><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/simple/syusiyosansyo.doc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(20, 70, 95); font-size: 13px;\">収支予算書（第１号様式　別紙２）</a></li><li><span style=\"font-size: 13px;\">見積書（補助対象経費が分かるもの）の写し</span></li><li><span style=\"font-size: 13px;\">企業の概要書（企業パンフレット等）</span></li><li><span style=\"font-size: 13px;\">定款の写し</span></li><li><span style=\"font-size: 13px;\">法人の履歴事項全部証明書（個人事業主にあたっては、直近の確定申告書の写し）</span></li><li><span style=\"font-size: 13px;\">市税完納証明書※（発行日から３か月以内のもの）</span></li></ul><p><span style=\"font-size: 13px;\">※税証明の発行については、以下の市民税課ページをご確認ください。</span><a href=\"https://www.city.yokkaichi.lg.jp/www/genre/1706232505711/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(20, 70, 95); font-size: 13px;\">https://www.city.yokkaichi.lg.jp/www/genre/1706232505711/index.html</a></p><p><span style=\"font-size: 13px;\"> </span></p><h3><span style=\"color: rgb(20, 70, 95); font-size: 13px;\">（２）変更（中止・取下）承認申請について</span></h3><p><span style=\"font-size: 13px;\">補助対象事業の内容、経費の配分その他の事項の変更（軽微な変更※１を除く）をしようとする場合又は補助対象事業を中止し、若しくは取下しようとする場合は、次の書類を揃えてご申請ください。</span></p><ul><li><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/simple/henkousyoninsinseisyo.doc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(20, 70, 95); font-size: 13px;\">変更（中止・取下）承認申請書（第４号様式）</a></li><li><span style=\"font-size: 13px;\">変更内容が確認できる書類</span></li><li><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/simple/henkousyusiyosansyo.doc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(20, 70, 95); font-size: 13px;\">変更収支予算書（第４号様式　別紙）</a><span style=\"font-size: 13px;\">※２</span></li></ul><p><span style=\"font-size: 13px;\">※１：軽微な変更とは、補助金額に変更がなく補助目的の達成に支障がないと認められる場合であって、補助対象経費の各費目における20パーセント以内の変更をいいます。</span></p><p><span style=\"font-size: 13px;\">※２：変更収支予算書は、補助金額の変更がある場合のみ添付ください。</span></p><p><span style=\"font-size: 13px;\"> </span></p><h3><span style=\"font-size: 13px;\">（３）実績報告について</span></h3><p><span style=\"font-size: 13px;\">補助対象事業の完了後、</span><strong style=\"font-size: 13px;\">30日以内又は当該年度の３月31日のいずれか早い日までに、</strong><span style=\"font-size: 13px;\">次の書類を揃えてご申請ください。</span></p><ul><li><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/simple/zissekihoukokusyo.doc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(20, 70, 95); font-size: 13px;\">実績報告書（第６号様式）</a></li><li><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/simple/zigyouhoukokusyo.doc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(20, 70, 95); font-size: 13px;\">事業報告書（第６号様式　別紙１）</a></li><li><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/simple/syusikessansyo.doc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(20, 70, 95); font-size: 13px;\">収支決算書（第６号様式　別紙２）</a></li><li><span style=\"font-size: 13px;\">請求書（補助対象経費が分かるもの）の写し</span></li><li><span style=\"font-size: 13px;\">補助対象経費の支払いを証する書類の写し</span></li><li><span style=\"font-size: 13px;\">事業の実施を証する書類（温室効果ガス排出量算定結果の写し、中小企業向けSBT認定の取得を確認できる書類等）</span></li></ul><p><span style=\"font-size: 13px;\"> </span></p><h3><span style=\"font-size: 13px;\">（４）補助金の請求について</span></h3><p><span style=\"font-size: 13px;\">実績報告後、交付確定通知書により通知を受けたときは、</span><strong style=\"font-size: 13px;\">速やかに</strong><span style=\"font-size: 13px;\">次の書類を揃えてご申請ください。</span></p><ul><li><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/simple/seikyusyo.doc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(20, 70, 95); font-size: 13px;\">請求書（第８号様式）</a></li></ul><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>四日市市　環境政策課</p><p>〒５１０-８６０１</p><p>四日市市諏訪町１番５号（市役所本庁舎５階）</p><p>TEL：（０５９）３５４－８１８８ FAX：（０５９）３５４－４４１２</p><p>E-mail:　<a href=\"\" rel=\"noopener noreferrer\" target=\"_blank\">kankyouseisaku@city.yokkaichi.mie.jp</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.city.yokkaichi.lg.jp/www/contents/1740105920449/index.html</a></p>",
+  "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / イベント・事業運営支援がほしい / 事業を引き継ぎたい / 資金繰りを改善したい / 雇用・職場環境を改善したい / 災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
+  "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+  "target_area_search": "三重県",
+  "target_area_detail": "四日市市",
+  "target_number_of_employees": "従業員数の制約なし",
+  "subsidy_rate": "現状把握及び計画策定事業　補助率　２分の１\t補助上限額　40万円、ＳＢＴ認定取得事業　補助率　２分の１　補助上限額　20万円",
+  "subsidy_max_limit": 0,
+  "acceptance_start_datetime": "2026-04-01T00:00Z",
+  "acceptance_end_datetime": "2027-03-31T08:15Z",
+  "project_end_deadline": null,
+  "request_reception_presence": "無",
+  "is_enable_multiple_request": true,
+  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000004CHdtUAG",
+  "institution_name": "四日市市中小企業脱炭素経営支援事業費補助金",
+  "summary_src_hash": "e226eee88dff586d9538bd654fe05e2e95db7fb7",
+  "summary": "四日市市では、市内の中小企業者が温室効果ガスの排出量算定、削減計画の策定及びSBT認定取得に要する経費の一部を補助します。この補助金は、脱炭素経営の推進を目的としており、コンサルタント費用やソフトウェア導入経費などが対象となります。"
  },
  "a0WJ200000CDXRpMAP": {
   "id": "a0WJ200000CDXRpMAP",
@@ -1803,8 +1826,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1pMAH",
   "institution_name": "【長野県茅野市】中小企業の人材育成等に対する補助金",
-  "summary_src_hash": "7c3893ceec62a5d093f23dc9db7d35784580ec2b",
-  "summary": "茅野市では、中小企業者が技術力及び経営力を強化するための人材育成や経営改善事業に要する経費の一部を補助します。特に、情報サービス業やDX・GX関連の研修会・講座を受講または開催する場合は、補助率が引き上げられます。対象は市内の中小企業や中小企業グループで、指定された事業を主たる事業として営む者です。"
+  "summary": "茅野市では、中小企業者が技術力及び経営力を強化するための人材育成や経営改善事業に要する経費の一部を補助します。特に、情報サービス業やDX・GX関連の研修会・講座を受講または開催する場合は、補助率が引き上げられます。対象は市内の中小企業や中小企業グループで、指定された事業を主たる事業として営む者です。",
+  "summary_src_hash": "7c3893ceec62a5d093f23dc9db7d35784580ec2b"
  },
  "a0WJ200000CDY1uMAH": {
   "id": "a0WJ200000CDY1uMAH",
@@ -1826,8 +1849,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1uMAH",
   "institution_name": "【長野県茅野市】インターンシップ等促進事業補助金",
-  "summary_src_hash": "16ad6fb83e811611bd590d80305ed48761607aa7",
-  "summary": "この補助金は、学生や障害者のインターンシップ受け入れや、事業者の魅力を学生に伝える活動を支援するためのものです。具体的には、インターンシップの指導にかかる人件費や、魅力発信活動に要する経費が対象となります。茅野市内に事業所を持つ事業者が応募可能で、特に公立諏訪東京理科大学の学生を対象とする場合は、補助額や補助率が優遇されます。"
+  "summary": "この補助金は、学生や障害者のインターンシップ受け入れや、事業者の魅力を学生に伝える活動を支援するためのものです。具体的には、インターンシップの指導にかかる人件費や、魅力発信活動に要する経費が対象となります。茅野市内に事業所を持つ事業者が応募可能で、特に公立諏訪東京理科大学の学生を対象とする場合は、補助額や補助率が優遇されます。",
+  "summary_src_hash": "16ad6fb83e811611bd590d80305ed48761607aa7"
  },
  "a0WJ200000CDY24MAH": {
   "id": "a0WJ200000CDY24MAH",
@@ -1962,8 +1985,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYVzMAP",
   "institution_name": "岡崎市中小企業事業資金保証料補助金",
-  "summary_src_hash": "e4e920cbb3878153fca4382ee01fc4022d8f2288",
-  "summary": "岡崎市内の中小企業者が、岡崎市中小企業事業資金（マル岡）または小規模企業等振興資金（振、振小）を利用して融資を受ける際に、借入時に必要な信用保証料の一部を補助する制度です。これにより、事業用資金の借入負担を軽減し、円滑な資金繰りを支援します。"
+  "summary": "岡崎市内の中小企業者が、岡崎市中小企業事業資金（マル岡）または小規模企業等振興資金（振、振小）を利用して融資を受ける際に、借入時に必要な信用保証料の一部を補助する制度です。これにより、事業用資金の借入負担を軽減し、円滑な資金繰りを支援します。",
+  "summary_src_hash": "e4e920cbb3878153fca4382ee01fc4022d8f2288"
  },
  "a0WJ200000CDYW0MAP": {
   "id": "a0WJ200000CDYW0MAP",
@@ -1985,8 +2008,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW0MAP",
   "institution_name": "岡崎市創業資金保証料補助金",
-  "summary_src_hash": "3c56f24513e8dabefe0e89bd5429188414095054",
-  "summary": "岡崎市では、創業時の信用保証料負担を軽減するため、愛知県経済環境適応資金（創業等支援資金）を利用して創業したかたに対して、支払った信用保証料の一部を補助する制度があります。対象は岡崎市内に住所及び主たる事業所がある創業者または創業して間もないかたです。"
+  "summary": "岡崎市では、創業時の信用保証料負担を軽減するため、愛知県経済環境適応資金（創業等支援資金）を利用して創業したかたに対して、支払った信用保証料の一部を補助する制度があります。対象は岡崎市内に住所及び主たる事業所がある創業者または創業して間もないかたです。",
+  "summary_src_hash": "3c56f24513e8dabefe0e89bd5429188414095054"
  },
  "a0WJ200000CDYW1MAP": {
   "id": "a0WJ200000CDYW1MAP",
@@ -2008,8 +2031,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW1MAP",
   "institution_name": "岡崎市創業資金利子補給補助金",
-  "summary_src_hash": "8daf253c7633cdb325aae52e3a39817d88c9449c",
-  "summary": "日本政策金融公庫の融資を受けて創業した方を対象に、支払った利子の一部を補助する制度です。応募資格は、新たに事業を始める方や開業5年未満の方で、岡崎市内に住所および主たる事業所があることが求められます。補助対象となる融資制度には、新企業育成貸付やマル経融資などが含まれます。"
+  "summary": "日本政策金融公庫の融資を受けて創業した方を対象に、支払った利子の一部を補助する制度です。応募資格は、新たに事業を始める方や開業5年未満の方で、岡崎市内に住所および主たる事業所があることが求められます。補助対象となる融資制度には、新企業育成貸付やマル経融資などが含まれます。",
+  "summary_src_hash": "8daf253c7633cdb325aae52e3a39817d88c9449c"
  },
  "a0WJ200000CDYW2MAP": {
   "id": "a0WJ200000CDYW2MAP",
@@ -2054,8 +2077,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW4MAP",
   "institution_name": "岡崎ものづくり支援補助金",
-  "summary_src_hash": "6c7d8fd7d30193835b2ad34508accf58279c0ca6",
-  "summary": "岡崎市内のものづくり事業所が、見本市や展示会に出展する際の費用の一部を補助する事業です。対象経費には、出展料や会場設営費が含まれます。応募資格は、製造業を営む法人または個人事業主で、市内に本社または工場を持ち、税金を完納していることが求められます。"
+  "summary": "岡崎市内のものづくり事業所が、見本市や展示会に出展する際の費用の一部を補助する事業です。対象経費には、出展料や会場設営費が含まれます。応募資格は、製造業を営む法人または個人事業主で、市内に本社または工場を持ち、税金を完納していることが求められます。",
+  "summary_src_hash": "6c7d8fd7d30193835b2ad34508accf58279c0ca6"
  },
  "a0WJ200000CDdicMAD": {
   "id": "a0WJ200000CDdicMAD",
@@ -2171,29 +2194,6 @@
   "institution_name": "【和泉市】再エネ・省エネ機器設置促進事業補助金",
   "summary": "本補助金は、和泉市における脱炭素化を推進するため、太陽光発電設備や蓄電池の新設に対して交付されます。補助対象者は法人または個人事業主で、市内の事業所に新たに設備を導入することが求められます。また、既存設備の撤去費用も対象経費に含まれます。補助金は設備の種類に応じて設定されており、特定の条件を満たす必要があります。",
   "summary_src_hash": "634c5d65c502b552d2e5c2a4e06dd1bd63a305da"
- },
- "a0WJ200000CDdjfMAD": {
-  "id": "a0WJ200000CDdjfMAD",
-  "name": "S-00009572",
-  "title": "[３次公募]中小企業成長加速化補助金",
-  "subsidy_catch_phrase": "[３次公募]中小企業成長加速化補助金",
-  "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">　日本経済は、賃上げ率・国内投資ともに30年ぶりの高水準にあり、変化の兆しが現れる中、多くの中小企業は、物価高や人手不足などの経営課題に直面しています。経済の好循環を全国に行き渡らせるためには、中小企業全体の「稼ぐ力」を底上げするとともに、地域にインパクトのある成長企業を創出していくことが重要です。</span></p><p><span style=\"font-size: 16px;\">　特に売上高が100億円に及ぶ企業は、一般的に賃金水準が高く、輸出による外需獲得やサプライチェーンへの波及効果も大きいなど、地域経済に与えるインパクトも大きいものとなります。中小企業成長加速化補助金は、こうした観点から将来の売上高100億円を目指して、大胆な投資を進めようとする中小企業者の取組を支援することを目的とします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■応募資格</strong></p><p><span style=\"font-size: 16px;\">公募要領に記載の応募資格の要件をすべて満たす企業・団体等</span></p><p><span style=\"font-size: 16px;\">なお応募資格の一つに、１００億宣言がポータルサイトに公表がされていることがございます。</span></p><p><span style=\"font-size: 16px;\">補助金申請をご検討の方は、１００億宣言の申請をお早めにお済ませくださいますようお願いいたします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■100億企業成長ポータル</strong></p><p><span style=\"font-size: 16px;\">本補助金に関する公募要領、申請様式等の最新情報は、100億企業成長ポータルサイトにてお知らせいたします。</span></p><p><span style=\"font-size: 16px;\">また、本補助金に関するよくあるご質問や各種資料、１００億宣言に関する内容につきましても、同ポータルサイトよりご確認ください。</span></p><p><a href=\"https://growth-100-oku.smrj.go.jp\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://growth-100-oku.smrj.go.jp</a></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■申請時の注意事項</strong></p><p><span style=\"font-size: 16px;\">Jグランツの動作環境は以下のとおりです。</span></p><p><span style=\"font-size: 16px;\">下記のブラウザの最新バージョンをご利用ください。</span></p><p><span style=\"font-size: 16px;\">なお、InternetExplorer等の下記以外のブラウザは、申請上のエラー等が生じますので利用しないでください。</span></p><p><span style=\"font-size: 16px;\">・Windows：chrome、firefox、edge(※1)</span></p><p><span style=\"font-size: 16px;\">・macOS：chrome、firefox、safari</span></p><p><span style=\"font-size: 16px;\">・Android：chrome</span></p><p><br></p><p><span style=\"font-size: 16px;\">※1 edgeの「InternetExplorerモード」は申請上のエラー等が生じますので利用しないでください。</span></p><p><br></p><p><span style=\"font-size: 16px;\">また、文字入力する際に以下の文字が含まれないようにお願いします。</span></p><p><span style=\"font-size: 16px;\">・ダブルクォーテーション：「&quot;」・「“」・「”」</span></p><p><span style=\"font-size: 16px;\">・カンマ：「,」</span></p><p><span style=\"font-size: 16px;\">・タブ：「　」( ホームページ情報等を入力欄にコピー&amp;ペーストをした際に生じる文字)</span></p><p><br></p><p><span style=\"font-size: 16px;\">ご不明点がある場合は、Jグランツの「よくあるご質問」をご確認ください。</span></p><p><a href=\"https://www.jgrants-portal.go.jp/faq\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.jgrants-portal.go.jp/faq</a></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■これから申請をされる皆様へ</strong></p><p><span style=\"font-size: 16px;\">３次公募では、補助金申請時に１００億宣言が本ポータルサイトに公表されていることが必要となります。 </span></p><p><span style=\"font-size: 16px;\">１００億宣言の公表に係る手続は、通常２、３週間を要しますので、補助金申請を検討される場合は、お早めに１００億宣言を進めて頂きますようお願いいたします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■中小企業庁関連事業データ利活用ポリシー</strong></p><p><a href=\"https://www.chusho.meti.go.jp/hojyokin/data_policy/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.chusho.meti.go.jp/hojyokin/data_policy/</a></p><p><span style=\"font-size: 16px;\">本補助金にご提出いただいた情報は、この中小企業庁関連事業データ利活用ポリシーに則り活用されます。</span></p><p><span style=\"font-size: 16px;\">本申請を行うことにより、本データ利用に同意したものとみなします。</span></p>",
-  "use_purpose": "新たな事業を行いたい / 雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
-  "industry": "建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-  "target_area_search": "全国",
-  "target_area_detail": null,
-  "target_number_of_employees": "従業員数の制約なし",
-  "subsidy_rate": "１／２以内",
-  "subsidy_max_limit": 500000000,
-  "acceptance_start_datetime": "2026-09-29T04:00Z",
-  "acceptance_end_datetime": "2026-11-12T06:00Z",
-  "project_end_deadline": "2029-03-31T14:59Z",
-  "request_reception_presence": "有",
-  "is_enable_multiple_request": false,
-  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdjfMAD",
-  "institution_name": "中小企業成長加速化補助金",
-  "summary": "中小企業成長加速化補助金は、将来の売上高100億円を目指す中小企業の大胆な投資を支援することを目的としています。特に、物価高や人手不足などの経営課題に直面する中小企業が、地域経済にインパクトを与える成長企業としての取り組みを促進するための補助金です。応募には、100億宣言の公表が必要です。",
-  "summary_src_hash": "778cfb3ce1afb0406a4cd3dfbab35f459c06719a"
  },
  "a0WJ200000CDZ04MAH": {
   "id": "a0WJ200000CDZ04MAH",
@@ -2558,7 +2558,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbz0MAD",
   "institution_name": "橿原市起業等スタートアップ補助金",
-  "summary_src_hash": "0d516569a0158dbe7e42e644f52463dfbdeb25e7"
+  "summary_src_hash": "0d516569a0158dbe7e42e644f52463dfbdeb25e7",
+  "summary": "橿原市の空き店舗を活用して新たに起業する方や新分野に事業拡大する方を対象に、事業所等の改修工事費などの経費の2分の1を補助する制度です。補助金は最大50万円で、申請時点で開業していない中小企業者が対象となります。また、特定の業種については空き店舗を利用しない場合でも補助対象となります。"
  },
  "a0WJ200000CDYC7MAP": {
   "id": "a0WJ200000CDYC7MAP",
@@ -2833,6 +2834,29 @@
   "institution_name": "二酸化炭素排出抑制対策事業費等補助金",
   "summary": "この補助金は、鉄道事業における省エネ化や回生電力の有効活用を目的とした設備整備事業に利用できます。具体的には、車両の省エネ化を促進する設備の導入や、回生電力を活用する先進的な設備・システムの導入が対象です。これにより、エネルギー起源の二酸化炭素排出量の削減が期待されます。",
   "summary_src_hash": "09182608b3ec3d397adbfcc12b0054abee5bbe48"
+ },
+ "a0WJ200000CDZi6MAH": {
+  "id": "a0WJ200000CDZi6MAH",
+  "name": "S-00009232",
+  "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
+  "subsidy_catch_phrase": "海外の高度外国人材を対象にしたインターンを実施！​",
+  "detail": "<p>■目的・概要</p><p>外国人材の採用に意欲のある中小企業等と、日本で働きたい海外在住の高度外国人材を対象に、採用・就職前にインターンシップの場を提供する高度人材インターンシップを実施します。</p><p>企業によるインターンシップ生への宿泊場所の提供及び滞在費支給に対して補助を行うことで、本事業を円滑・効果的に実施することを目的としています。</p><p><br></p><p>■根拠規程</p><p>高度人材インターンシップ受入支援費補助金交付要綱</p><p><br></p><p>■対象事業者</p><p>高度人材インターンシップ事業に参加し、高度外国人材を３か月程度インターンシップ生として受け入れることが決定していること（※その他要件あり）。</p><p><br></p><p>■対象事業</p><p>東京都が主催する高度人材インターンシップ事業</p><p><br></p><p><span style=\"color: rgb(68, 68, 68);\">■補助額上限</span></p><p>宿泊費、滞在費とも１日あたり5,000円</p><p><br></p><p>■申請期間</p><p>〇交付申請受付期間：令和８年８月１７日（月）から令和８年９月９日（水）まで</p><p>〇補助対象期間：インターンシップ生が補助事業者においてインターンシップを実施した期間（当該インターンシップ生が日本に到着したその日から、帰国する日までの期間）</p><p><span style=\"font-size: 13px;\">　但し、宿泊場所の提供について、東京都がインターンシップ生に対し宿泊場所を提供した期間は、補助対象外とする。</span></p><p>〇実績報告受付期限：令和９年１月８日（金）まで</p><p><br></p><p>■問合せ先</p><p><br></p><p>東京都産業労働局雇用就業部</p><p>就業推進課人材確保推進担当</p><p>03-5320-4628</p><p><br></p><p>■参照URL</p><p><a href=\"https://tcgi.metro.tokyo.lg.jp/company/subsidy25\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">https://tcgi.metro.tokyo.lg.jp/company/subsidy25</a></p>",
+  "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 雇用・職場環境を改善したい",
+  "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+  "target_area_search": "東京都",
+  "target_area_detail": null,
+  "target_number_of_employees": "300名以下",
+  "subsidy_rate": "宿泊費、滞在費とも10/10",
+  "subsidy_max_limit": 5000,
+  "acceptance_start_datetime": "2026-08-16T15:00Z",
+  "acceptance_end_datetime": "2026-11-13T14:59Z",
+  "project_end_deadline": null,
+  "request_reception_presence": "有",
+  "is_enable_multiple_request": false,
+  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH",
+  "institution_name": "高度人材インターンシップ受入支援費補助金",
+  "summary_src_hash": "f98f92e91d11b2ca00e067b30b33c02f12ce309e",
+  "summary": "この補助金は、中小企業等が海外在住の高度外国人材をインターンシップ生として受け入れる際に、宿泊場所の提供や滞在費支給に対して支援を行うものです。具体的には、東京都が主催する高度人材インターンシップ事業に参加する企業が対象となります。"
  },
  "a0WJ200000CDZz6MAH": {
   "id": "a0WJ200000CDZz6MAH",
@@ -3197,8 +3221,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYuXMAX",
   "institution_name": "休廃止鉱山鉱害防止等工事費補助金",
-  "summary_src_hash": "23eb18fbe8ccb8da096b1de9f760ab29c42b104d",
-  "summary": "休廃止鉱山に関連する鉱害や危害を防止するための工事を行う地方公共団体や、坑廃水処理を実施する事業者に対して、その経費の一部を補助することを目的とした補助金です。対象となるのは、無資力の鉱山や採掘活動が終了した鉱山に関する事業です。"
+  "summary": "休廃止鉱山に関連する鉱害や危害を防止するための工事を行う地方公共団体や、坑廃水処理を実施する事業者に対して、その経費の一部を補助することを目的とした補助金です。対象となるのは、無資力の鉱山や採掘活動が終了した鉱山に関する事業です。",
+  "summary_src_hash": "23eb18fbe8ccb8da096b1de9f760ab29c42b104d"
  },
  "a0WJ200000CDeUgMAL": {
   "id": "a0WJ200000CDeUgMAL",
@@ -3645,8 +3669,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDRArMAP",
   "institution_name": "医療機関等におけるマイナンバーカード利活用推進事業",
-  "summary_src_hash": "9a831dbdc9a8db6695bdd2272993866beffbf0c1",
-  "summary": "この補助金は、医療機関等がマイナンバーカードを公費負担医療及び地方単独医療費助成の受給者証として利用するためのシステム改修に係る費用の一部を支援するものです。対象は東京都内の医療機関や薬局で、補助額は病院が141,000円、診療所や薬局が18,000円となっています。"
+  "summary": "この補助金は、医療機関等がマイナンバーカードを公費負担医療及び地方単独医療費助成の受給者証として利用するためのシステム改修に係る費用の一部を支援するものです。対象は東京都内の医療機関や薬局で、補助額は病院が141,000円、診療所や薬局が18,000円となっています。",
+  "summary_src_hash": "9a831dbdc9a8db6695bdd2272993866beffbf0c1"
  },
  "a0WJ200000CDRafMAH": {
   "id": "a0WJ200000CDRafMAH",
@@ -3823,8 +3847,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXoBMAX",
   "institution_name": "躍進的な事業推進のための設備投資支援事業",
-  "summary_src_hash": "7c1df8820bb00f2d8db84bc399dec9ef9662e85a",
-  "summary": "この補助金は、設備投資に関連する支援事業に使用できるもので、具体的には成長産業等設備投資特別支援、革新的事業展開設備投資支援、新型コロナウイルス感染症緊急対策設備支援、躍進的な事業推進のための設備投資支援、新事業展開のための設備投資支援、設備投資緊急支援事業が対象です。"
+  "summary": "この補助金は、設備投資に関連する支援事業に使用できるもので、具体的には成長産業等設備投資特別支援、革新的事業展開設備投資支援、新型コロナウイルス感染症緊急対策設備支援、躍進的な事業推進のための設備投資支援、新事業展開のための設備投資支援、設備投資緊急支援事業が対象です。",
+  "summary_src_hash": "7c1df8820bb00f2d8db84bc399dec9ef9662e85a"
  },
  "a0WJ200000CDY36MAH": {
   "id": "a0WJ200000CDY36MAH",
@@ -3868,7 +3892,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYCnMAP",
-  "institution_name": "【福岡市】グリーンビル促進事業"
+  "institution_name": "【福岡市】グリーンビル促進事業",
+  "summary_src_hash": "59d31b7e99acaaa38c6f70914ea019971cc65268",
+  "summary": "この補助金は、福岡市都心部におけるオフィスビルや商業施設、宿泊施設などの緑化を推進するためのもので、緑化費用の一部を補助します。対象となる緑化には、空地や建物の壁面緑化、屋内緑化、花壇整備が含まれ、特定の緑化面積や緑化率を満たす必要があります。"
  },
  "a0WJ200000CDYDCMA5": {
   "id": "a0WJ200000CDYDCMA5",
@@ -4159,7 +4185,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbHxMAL",
-  "institution_name": "医療機関等におけるマイナンバーカード利活用推進事業"
+  "institution_name": "医療機関等におけるマイナンバーカード利活用推進事業",
+  "summary_src_hash": "95cc4ddd1469a9ca09a776cdbab4339109a56840",
+  "summary": "医療機関や薬局がマイナンバーカードを公費負担医療や地方単独医療費助成の受給者証として利用するためのシステム改修にかかる費用の一部を補助する事業です。東京都内の医療機関等が対象で、過年度に補助金を受けた医療機関・薬局も申請可能です。"
  },
  "a0WfQ000003CWvFUAW": {
   "id": "a0WfQ000003CWvFUAW",
@@ -4391,29 +4419,6 @@
   "summary": "この助成金は、都内の中小企業者や創業予定者が、事業承継や経営改善を進めるために外部の専門家に委託する取り組みに対して、その経費の一部を助成するものです。具体的には、事業承継・再生支援や地域持続化支援、地域金融機関による支援など、様々な支援を受けた企業が対象となります。",
   "summary_src_hash": "c404e35f7b1a220d3ea8175bcdd658b215d44fb3"
  },
- "a0WfQ0000040nWHUAY": {
-  "id": "a0WfQ0000040nWHUAY",
-  "name": "S-00010016",
-  "title": "令和８年度居宅介護支援事業所経営改善等支援補助金",
-  "subsidy_catch_phrase": "下記の費用の一部を補助します。\n１　居宅介護支援事業所の事務職員雇用に対する支援\n２　経営改善のための取組に対する支援\n３　利用者確保のための広報活動に対する支援",
-  "detail": "<p><span style=\"color: rgb(255, 8, 8); font-size: 18px;\">交付申請は令和８年12月28日（月）締め切りです。</span></p><p><span style=\"color: rgb(255, 8, 8); font-size: 18px;\">実績報告は令和９年１月12日（火）から受付を開始します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>東京都内の居宅介護支援事業所に対して、事務職員の雇用経費に加え、経営改善に係る取組や利用者確保のための広報活動に係る経費を補助し、業務効率化や経営改善を支援することを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金申請方法マニュアル：</strong><a href=\"https://www.fukushi1.metro.tokyo.lg.jp/kyotakushien-keieikaizentou/manual.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 111, 173);\"><strong>manual</strong></a></p><p><strong style=\"color: rgb(1, 95, 189);\">■Jグランツマニュアル：</strong><a href=\"https://www.jgrants-portal.go.jp/request-flow\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(1, 95, 189);\"><strong>https://www.jgrants-portal.go.jp/request-flow</strong></a></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">﻿■問合せ先</strong></p><p>東京都介護保険課　03-5000-7556</p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">■Q＆A　制度概要：</strong><span style=\"color: rgb(2, 18, 28);\">東京都ホームページ</span></p><p><a href=\"https://www.fukushi.metro.tokyo.lg.jp/kourei/hoken/kaigo_lib/care/jimusyokuinkoyousienn\" rel=\"noopener noreferrer\" target=\"_blank\">居宅介護支援事業所事務職員雇用支援事業|介護支援専門員(ケアマネジャー）関連情報|東京都福祉局</a></p>",
-  "use_purpose": "雇用・職場環境を改善したい",
-  "industry": "医療、福祉",
-  "target_area_search": "東京都",
-  "target_area_detail": null,
-  "target_number_of_employees": "従業員数の制約なし",
-  "subsidy_rate": "１については、助成対象と認められる経費の３／４、２，３については１０/１０",
-  "subsidy_max_limit": 2725000,
-  "acceptance_start_datetime": "2026-10-28T06:35Z",
-  "acceptance_end_datetime": "2027-03-19T14:59Z",
-  "project_end_deadline": null,
-  "request_reception_presence": "有",
-  "is_enable_multiple_request": true,
-  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000040nWHUAY",
-  "institution_name": "居宅介護支援事業所経営改善等支援",
-  "summary": "この補助金は、東京都内の居宅介護支援事業所に対して、事務職員の雇用経費、経営改善のための取組、及び利用者確保のための広報活動にかかる経費を支援するものです。目的は業務効率化や経営改善を図ることです。",
-  "summary_src_hash": "593d62848a95769fc8f46d692c9e15da8e17b791"
- },
  "a0WJ200000CDaTOMA1": {
   "id": "a0WJ200000CDaTOMA1",
   "name": "S-00009323",
@@ -4524,8 +4529,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000049swXUAQ",
   "institution_name": "次世代革新炉の開発・建設に向けた技術開発・サプライチェーン構築支援事業",
-  "summary_src_hash": "c80c2f8babb20f92b524964ff01c72bf321f6563",
-  "summary": "この補助金は、新たな安全メカニズムを組み込んだ次世代革新炉に含まれる革新軽水炉及び小型軽水炉の技術開発やサプライチェーンの高度化を支援することを目的としています。これにより、次世代革新炉の実用化開発の促進や原子力産業基盤の維持・強化を図ります。"
+  "summary": "この補助金は、新たな安全メカニズムを組み込んだ次世代革新炉に含まれる革新軽水炉及び小型軽水炉の技術開発やサプライチェーンの高度化を支援することを目的としています。これにより、次世代革新炉の実用化開発の促進や原子力産業基盤の維持・強化を図ります。",
+  "summary_src_hash": "c80c2f8babb20f92b524964ff01c72bf321f6563"
  },
  "a0WfQ000004BTqnUAG": {
   "id": "a0WfQ000004BTqnUAG",
@@ -4547,8 +4552,31 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000004BTqnUAG",
   "institution_name": "在宅医療現場における防犯機器等導入支援事業",
-  "summary_src_hash": "b27d511f68c986eda59c7a36c64c549029d05b53",
-  "summary": "この補助金は、在宅医療現場における医療従事者へのハラスメント対策として、防犯機器の導入を支援するものです。対象となる経費は、訪問診療時のセキュリティ確保に必要な防犯機器の初度整備に係る費用です。東京都内で訪問診療を行う医療機関が対象となります。"
+  "summary": "この補助金は、在宅医療現場における医療従事者へのハラスメント対策として、防犯機器の導入を支援するものです。対象となる経費は、訪問診療時のセキュリティ確保に必要な防犯機器の初度整備に係る費用です。東京都内で訪問診療を行う医療機関が対象となります。",
+  "summary_src_hash": "b27d511f68c986eda59c7a36c64c549029d05b53"
+ },
+ "a0WfQ0000040nWHUAY": {
+  "id": "a0WfQ0000040nWHUAY",
+  "name": "S-00010016",
+  "title": "令和８年度居宅介護支援事業所経営改善等支援補助金",
+  "subsidy_catch_phrase": "下記の費用の一部を補助します。\n１　居宅介護支援事業所の事務職員雇用に対する支援\n２　経営改善のための取組に対する支援\n３　利用者確保のための広報活動に対する支援",
+  "detail": "<p><span style=\"color: rgb(255, 8, 8); font-size: 18px;\">交付申請は令和８年12月28日（月）締め切りです。</span></p><p><span style=\"color: rgb(255, 8, 8); font-size: 18px;\">実績報告は令和９年１月12日（火）から受付を開始します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>東京都内の居宅介護支援事業所に対して、事務職員の雇用経費に加え、経営改善に係る取組や利用者確保のための広報活動に係る経費を補助し、業務効率化や経営改善を支援することを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金申請方法マニュアル：</strong><a href=\"https://www.fukushi1.metro.tokyo.lg.jp/kyotakushien-keieikaizentou/manual.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 111, 173);\"><strong>manual</strong></a></p><p><strong style=\"color: rgb(1, 95, 189);\">■Jグランツマニュアル：</strong><a href=\"https://www.jgrants-portal.go.jp/request-flow\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(1, 95, 189);\"><strong>https://www.jgrants-portal.go.jp/request-flow</strong></a></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">﻿■問合せ先</strong></p><p>東京都介護保険課　03-5000-7556</p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">■Q＆A　制度概要：</strong><span style=\"color: rgb(2, 18, 28);\">東京都ホームページ</span></p><p><a href=\"https://www.fukushi.metro.tokyo.lg.jp/kourei/hoken/kaigo_lib/care/jimusyokuinkoyousienn\" rel=\"noopener noreferrer\" target=\"_blank\">居宅介護支援事業所事務職員雇用支援事業|介護支援専門員(ケアマネジャー）関連情報|東京都福祉局</a></p>",
+  "use_purpose": "雇用・職場環境を改善したい",
+  "industry": "医療、福祉",
+  "target_area_search": "東京都",
+  "target_area_detail": null,
+  "target_number_of_employees": "従業員数の制約なし",
+  "subsidy_rate": "１については、助成対象と認められる経費の３／４、２，３については１０/１０",
+  "subsidy_max_limit": 2725000,
+  "acceptance_start_datetime": "2026-10-28T06:35Z",
+  "acceptance_end_datetime": "2027-03-19T14:59Z",
+  "project_end_deadline": null,
+  "request_reception_presence": "有",
+  "is_enable_multiple_request": true,
+  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000040nWHUAY",
+  "institution_name": "居宅介護支援事業所経営改善等支援",
+  "summary": "この補助金は、東京都内の居宅介護支援事業所に対して、事務職員の雇用経費、経営改善のための取組、及び利用者確保のための広報活動にかかる経費を支援するものです。目的は業務効率化や経営改善を図ることです。",
+  "summary_src_hash": "593d62848a95769fc8f46d692c9e15da8e17b791"
  },
  "a0WJ200000CDbosMAD": {
   "id": "a0WJ200000CDbosMAD",
@@ -4613,30 +4641,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOsKMAX",
-  "institution_name": "無線システム普及支援事業費等事業（携帯電話等エリア整備事業）"
- },
- "a0WJ200000CDdtCMAT": {
-  "id": "a0WJ200000CDdtCMAT",
-  "name": "S-00009637",
-  "title": "令和8年度第2回 事業承継を契機とした成長支援事業(販路開拓コース)",
-  "subsidy_catch_phrase": "更なる企業の成長を目指す後継者が取り組む新規事業展開を支援します！！",
-  "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要</strong></p><p><span style=\"font-size: 14px;\">「事業承継を契機とした成長支援事業（販路開拓コース）」（以下、「本事業」という。）は、先代経営者（以下、「先代」という。）から代表権を引き継いだ申請者である後継者（以下、「後継者」という。）への事業承継を契機とした新規事業展開を助成金で支援し、取引拡大を通じた中小企業の振興を図ることを目的としています。 </span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■助成対象者</strong></p><p><span style=\"font-size: 14px;\">申請要件を満たす、東京都内で事業を行う中小企業者（個人事業主を含む） </span></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■助成対象経費</strong></p><p><span style=\"font-size: 14px;\">新規事業展開に取り組む計画を作成し、審査で認められた経費</span></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■助成対象期間</strong></p><p><span style=\"font-size: 14px;\">交付決定日から最大１年間</span></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■申請受付期間</strong></p><p><span style=\"font-size: 14px;\">令和８年１０月１３日（火）午前９時　～　１１月１２日（木）午後４時</span></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■交付決定日</strong></p><p><span style=\"font-size: 14px;\">令和９年２月上旬頃予定 </span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 14px;\">東京都中小企業振興公社　</span></p><p><span style=\"font-size: 14px;\">事業承継を契機とした成長支援事業　事務局</span></p><p><span style=\"font-size: 14px;\">TEL：03-4446-4650</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■参照URL（申請書を以下よりダウンロードできます）</strong></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/shokei-seicho-hanro/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/shokei-seicho-hanro/index.html</a></p>",
-  "use_purpose": "新たな事業を行いたい",
-  "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-  "target_area_search": "東京都",
-  "target_area_detail": "①東京都内：申請受付開始日時に東京都内に登記簿上の本店又は支店があること ②東京都外（神奈川県、埼玉県、千葉県、 群馬県、栃木県、茨城県、山梨県に所在すること） ：申請受付開始日時に東京都内に登記簿上の本店があること",
-  "target_number_of_employees": "従業員数の制約なし",
-  "subsidy_rate": "助成対象経費の2/3以内。",
-  "subsidy_max_limit": 3000000,
-  "acceptance_start_datetime": "2026-10-13T00:00Z",
-  "acceptance_end_datetime": "2026-11-12T07:00Z",
-  "project_end_deadline": null,
-  "request_reception_presence": "有",
-  "is_enable_multiple_request": false,
-  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtCMAT",
-  "institution_name": "事業承継を契機とした成長支援事業",
-  "summary": "この補助金は、東京都内で事業を行う中小企業者が、先代経営者から代表権を引き継いだ後継者による新規事業展開を支援するためのものです。事業承継を契機に、取引拡大を目指す計画を作成し、審査で認められた経費が助成対象となります。",
-  "summary_src_hash": "cfe0fbb6948af1e62289ef0669474f986424e2e1"
+  "institution_name": "無線システム普及支援事業費等事業（携帯電話等エリア整備事業）",
+  "summary_src_hash": "f6735f4f9848ed36940589ed016a594a131dd8f9",
+  "summary": "条件不利地域において、携帯電話等の利用を可能にし、5Gによる高度な無線通信を実現するための事業に使える補助金です。具体的には、地方公共団体や無線通信事業者が基地局施設や伝送路施設を整備する際の費用を国が一部補助します。"
  },
  "a0WfQ000003j5GLUAY": {
   "id": "a0WfQ000003j5GLUAY",
@@ -5086,7 +5093,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY2OMAX",
-  "institution_name": "職場内障害者サポーター事業"
+  "institution_name": "職場内障害者サポーター事業",
+  "summary_src_hash": "bd9c840c32afafcb754f63678324b6f61b3a1b3e",
+  "summary": "この補助金は、社員が養成講座を受講後に「職場内障害者サポーター」として登録し、支援活動を行った企業に対して支給されます。目的は、各職場での障害者支援体制の構築を促進し、企業の自立的な障害者支援を支援することです。対象は、東京都内に本社または事業所を持つ雇用保険適用事業主です。"
  },
  "a0WfQ000003CYIjUAO": {
   "id": "a0WfQ000003CYIjUAO",
@@ -5534,7 +5543,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003poQrUAI",
-  "institution_name": "東京都地域医療勤務環境改善体制整備事業"
+  "institution_name": "東京都地域医療勤務環境改善体制整備事業",
+  "summary_src_hash": "c6700f572eb0fb8de1cca162caee9dc03cc8cd4f",
+  "summary": "医師の労働時間短縮を進めるため、地域医療提供体制の確保や勤務環境の改善を目的とした補助金です。特に、チーム医療の推進やICTを活用した業務改革に関連する取り組みが対象となります。"
  },
  "a0WfQ000003pt0jUAA": {
   "id": "a0WfQ000003pt0jUAA",
@@ -5578,7 +5589,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qEuoUAE",
-  "institution_name": "東京都地域医療勤務環境改善体制整備事業"
+  "institution_name": "東京都地域医療勤務環境改善体制整備事業",
+  "summary_src_hash": "3fa26577f5141496dea56eb9467b182967edeef0",
+  "summary": "医師の労働時間短縮を進めるため、医療機関における指導体制の整備や医師の教育研修を行う事業に使える補助金です。特に、チーム医療の推進やICTを活用した業務改革を通じて、働きやすく働きがいのある職場づくりを目指す取り組みが対象となります。"
  },
  "a0WfQ000003pvCDUAY": {
   "id": "a0WfQ000003pvCDUAY",
@@ -5712,7 +5725,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QZLqEAO",
-  "institution_name": "電波遮へい対策事業（トンネル）"
+  "institution_name": "電波遮へい対策事業（トンネル）",
+  "summary_src_hash": "dbc503fa322712add78ddee00c3d17f05593f8f1",
+  "summary": "この補助金は、鉄道や道路のトンネル、医療施設内で携帯電話などの無線通信が利用できるようにするための事業に使える。具体的には、電波が遮へいされる状況で代替の伝送路を開設するために必要な無線通信用施設や設備を設置することを目的としている。対象は一般社団法人等が行う事業である。"
  },
  "a0WJ200000CDVm7MAH": {
   "id": "a0WJ200000CDVm7MAH",
@@ -5733,7 +5748,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVm7MAH",
-  "institution_name": "令和７年度病院勤務者勤務環境改善事業"
+  "institution_name": "令和７年度病院勤務者勤務環境改善事業",
+  "summary_src_hash": "34b803b8fdadf74ef9d993e40d024a3df6f7733f",
+  "summary": "この補助金は、都内の病院が医師や看護職員の勤務環境を改善し、離職防止や再就業支援を行うための経費を補助するものです。具体的には、復職研修や就労環境改善、相談窓口の設置、チーム医療推進の取り組み、及び勤務環境改善のための施設や設備の整備に使える事業が対象となります。"
  },
  "a0WJ200000CDQuHMAX": {
   "id": "a0WJ200000CDQuHMAX",
@@ -5822,8 +5839,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYCpMAP",
   "institution_name": "【深谷市】中小企業者経営革新計画策定奨励金",
-  "summary_src_hash": "ce81ce48316869617d83143e52fb15268637925e",
-  "summary": "深谷市内で商工業を営む中小企業者が、新規事業の中長期的な計画である「経営革新計画」を策定し、埼玉県知事の承認を受けることで、奨励金が交付される制度です。この補助金は、経営革新計画の策定を促進することを目的としています。"
+  "summary": "深谷市内で商工業を営む中小企業者が、新規事業の中長期的な計画である「経営革新計画」を策定し、埼玉県知事の承認を受けることで、奨励金が交付される制度です。この補助金は、経営革新計画の策定を促進することを目的としています。",
+  "summary_src_hash": "ce81ce48316869617d83143e52fb15268637925e"
  },
  "a0WJ200000CDY6GMAX": {
   "id": "a0WJ200000CDY6GMAX",
@@ -5867,7 +5884,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6cMAH",
-  "institution_name": "【長野県茅野市】特定創業者等支援奨励金"
+  "institution_name": "【長野県茅野市】特定創業者等支援奨励金",
+  "summary_src_hash": "c4fdb94c5fd0335e459a9b4b6fe71b5f1afa4fdd",
+  "summary": "茅野市では、地域産業の持続的な成長を促進するため、市内で創業した方に対して奨励金を交付する制度があります。対象者は特定創業支援等事業の支援を受けた証明書を持ち、茅野市内のコワーキングスペースや交流拠点施設を本社所在地とする必要があります。"
  },
  "a0WJ200000CDY6dMAH": {
   "id": "a0WJ200000CDY6dMAH",
@@ -5888,7 +5907,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6dMAH",
-  "institution_name": "【長野県茅野市】特定創業者等支援奨励金"
+  "institution_name": "【長野県茅野市】特定創業者等支援奨励金",
+  "summary_src_hash": "df1e6aa8cd01af183bfb1ca4b4fe8000982df467",
+  "summary": "茅野市では、地域産業の持続的な成長を促進するため、事業承継を行う市内の事業者に対して奨励金を交付します。対象は、建設業、製造業、サービス業のうち廃棄物処理業、自動車整備業、機械等修理業を主たる事業とする、65歳以上の代表者から事業を承継した60歳未満の代表者です。"
  },
  "a0WJ200000CDXFhMAP": {
   "id": "a0WJ200000CDXFhMAP",
@@ -5909,7 +5930,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFhMAP",
-  "institution_name": "京都市企業立地促進制度"
+  "institution_name": "京都市企業立地促進制度",
+  "summary_src_hash": "6309cf5bee79091245041a7fa029d716ab28d56b",
+  "summary": "京都市内での本社、工場、開発拠点、研究所の新増設に対して、製造業、ソフトウェア業、情報処理サービス業を営む企業に補助金が交付されます。補助金は固定資産税・都市計画税相当額で、最大1億円まで支援されます。常時雇用者数が5名以上で、雇用の増加や生産性向上に寄与する投資が求められます。"
  },
  "a0WJ200000CDYW8MAP": {
   "id": "a0WJ200000CDYW8MAP",
@@ -5930,7 +5953,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW8MAP",
-  "institution_name": "岡崎市工場等（倉庫等）建設奨励金"
+  "institution_name": "岡崎市工場等（倉庫等）建設奨励金",
+  "summary_src_hash": "efb26d7eaf99b464680104d65cb700a8b21e5b4d",
+  "summary": "岡崎市では、産業振興と雇用拡大を目的とした補助金制度があり、市内で新たに土地や建物を取得し、工場、倉庫、研究施設、本社機能を新設または増設する事業者に対して、事業所税資産割相当額および固定資産税相当額を交付します。生産や研究のための設備投資を検討している事業者も対象となります。"
  },
  "a0WJ200000CDYW9MAP": {
   "id": "a0WJ200000CDYW9MAP",
@@ -5951,7 +5976,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW9MAP",
-  "institution_name": "岡崎市企業再投資促進奨励金（県連携）"
+  "institution_name": "岡崎市企業再投資促進奨励金（県連携）",
+  "summary_src_hash": "3db0773fc29e78db4ae9ebcd5909a0054501ddfe",
+  "summary": "次世代成長分野等の製造業を営む企業が、工場または研究所の新設や増設に伴う設備投資に対して奨励金が交付される制度です。対象業種には自動車、航空宇宙、ロボット、環境・新エネルギー、情報通信、健康長寿関連分野が含まれます。大企業は25億円以上、中堅・中小企業は1億円以上の投資が必要で、雇用要件も設定されています。"
  },
  "a0WJ200000CDYWAMA5": {
   "id": "a0WJ200000CDYWAMA5",
@@ -5972,7 +5999,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYWAMA5",
-  "institution_name": "岡崎市消費者向け製品製造工場等建設奨励金"
+  "institution_name": "岡崎市消費者向け製品製造工場等建設奨励金",
+  "summary_src_hash": "62073ce7c61e686d54eabeb0ee6f5a36c8b9adcf",
+  "summary": "岡崎市内で新たに土地を取得し、一般消費者向けの製品（BtoC製品）を製造する工場等を新設または増設する事業者に対し、固定資産取得費用の一部を奨励金として交付する制度です。対象となる事業者は、20,000平方メートル以上の土地を取得し、一定の投資規模や新規雇用の増加を満たす必要があります。"
  },
  "a0WJ200000CDYWBMA5": {
   "id": "a0WJ200000CDYWBMA5",
@@ -5993,7 +6022,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYWBMA5",
-  "institution_name": "岡崎市高度先端産業立地奨励金（県連携）"
+  "institution_name": "岡崎市高度先端産業立地奨励金（県連携）",
+  "summary_src_hash": "47573d5e3341fd00452710abf0eff1db2f9c96d0",
+  "summary": "岡崎市では、高度先端産業分野の製造業等を営むための工場や研究所の新設・増設に対して奨励金を交付する制度があります。対象業種には航空宇宙、環境・新エネルギー、情報通信、健康長寿、先端素材、ナノテクノロジー、バイオテクノロジーが含まれます。応募には一定の投資規模や雇用者の増加が求められます。"
  },
  "a0WJ200000CDYfeMAH": {
   "id": "a0WJ200000CDYfeMAH",
@@ -6037,7 +6068,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb86MAD",
-  "institution_name": "企業立地優遇制度（今治市企業立地促進条例）"
+  "institution_name": "企業立地優遇制度（今治市企業立地促進条例）",
+  "summary_src_hash": "93230d0d2d1a093f5d69b58efc83167add360543",
+  "summary": "今治市内における企業の立地を支援するための補助金で、事業所の新設、増設、または移転を行う企業が対象です。新たに取得した固定資産に係る固定資産税相当額が交付されます。対象業種には情報通信業、卸売業、小売業、学術研究、専門・技術サービス業、医療、福祉が含まれ、特定の要件を満たす必要があります。"
  },
  "a0WJ200000CDb8AMAT": {
   "id": "a0WJ200000CDb8AMAT",
@@ -6058,7 +6091,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb8AMAT",
-  "institution_name": "企業立地優遇制度（今治市企業立地促進条例）"
+  "institution_name": "企業立地優遇制度（今治市企業立地促進条例）",
+  "summary_src_hash": "3b0a1bd2e26b50336b0ff72c93035c00373bcc78",
+  "summary": "今治市内に事業所を有する中小企業者が、生産増強、高付加価値化、または環境負荷軽減を目的とした機械や装置の入れ替え・設置に対して、設備投資に伴う固定資産税相当額を交付する補助金です。投資額が2,000万円以上の場合に適用され、雇用維持が条件となります。"
  },
  "a0WJ200000CDeTAMA1": {
   "id": "a0WJ200000CDeTAMA1",
@@ -6080,8 +6115,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTAMA1",
   "institution_name": "【福岡県小郡市】企業立地優遇制度",
-  "summary_src_hash": "f6e1799a3b33b43a8e336952f44d81281eee2bac",
-  "summary": "小郡市では、製造業、データセンター、ソフトウェア業、情報処理・提供サービス業、学術・開発研究機関、デザイン業、機械設計業、コンタクトセンターを営む企業が、市内で工場や事務所の新設または増設を行う際に、固定資産税の免除や雇用奨励金、立地奨励金を交付します。これにより、産業立地の促進と雇用機会の拡大を図ることを目的としています。"
+  "summary": "小郡市では、製造業、データセンター、ソフトウェア業、情報処理・提供サービス業、学術・開発研究機関、デザイン業、機械設計業、コンタクトセンターを営む企業が、市内で工場や事務所の新設または増設を行う際に、固定資産税の免除や雇用奨励金、立地奨励金を交付します。これにより、産業立地の促進と雇用機会の拡大を図ることを目的としています。",
+  "summary_src_hash": "f6e1799a3b33b43a8e336952f44d81281eee2bac"
  },
  "a0WJ200000CDY1QMAX": {
   "id": "a0WJ200000CDY1QMAX",
@@ -6102,7 +6137,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1QMAX",
-  "institution_name": "【長野県茅野市】ＩＴ関連企業誘致奨励金"
+  "institution_name": "【長野県茅野市】ＩＴ関連企業誘致奨励金",
+  "summary_src_hash": "6e5608b408e39343e19da87db57215a5c129bc39",
+  "summary": "長野県茅野市では、県外に本社を置くIT関連企業が市内に事業所を開設する際に奨励金を交付し、操業を支援します。対象となるのは、民間所有の空き事務所を利用し、事業所開設から6月以上経過し、3年以上の継続的な事業計画を持つ法人です。"
  },
  "a0W5h00000UbQnPEAV": {
   "id": "a0W5h00000UbQnPEAV",
@@ -6144,7 +6181,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFfMAP",
-  "institution_name": "京都市企業立地促進制度"
+  "institution_name": "京都市企業立地促進制度",
+  "summary_src_hash": "b43c2749d741847de8323ec83e5e5e1156f90156",
+  "summary": "この補助金は、京都市に初めてオフィスを設置する市外企業を対象とし、オフィス賃料や市内居住の常時雇用者数に応じた補助を提供します。具体的には、賃料に対して最大2,000万円、雇用に対して最大5,000万円の補助が受けられます。補助対象事業は、長期のオフィス設置が見込まれるものに限られます。"
  },
  "a0WJ200000CDXFgMAP": {
   "id": "a0WJ200000CDXFgMAP",
@@ -6165,7 +6204,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFgMAP",
-  "institution_name": "京都市企業立地促進制度"
+  "institution_name": "京都市企業立地促進制度",
+  "summary_src_hash": "0463d6a10ce836bc0c3850e1b3c544b0c02d7b3c",
+  "summary": "特定の認定を受けた中小企業が京都市内で事業所の新増設を行う際に、固定資産税・都市計画税相当額を補助する制度です。補助金は最大1億円で、対象事業は賃借を除く新増設に限られます。また、埋蔵文化財発掘調査に対しても補助があり、上限額は最大2,500万円です。"
  },
  "a0WJ200000CDXFiMAP": {
   "id": "a0WJ200000CDXFiMAP",
@@ -6186,7 +6227,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFiMAP",
-  "institution_name": "京都市企業立地促進制度"
+  "institution_name": "京都市企業立地促進制度",
+  "summary_src_hash": "7ee6f49b37dc4df57b5d1a8aec4fda817d6802f2",
+  "summary": "京都市に初めて進出を検討する企業を対象に、シェアオフィスやコワーキングスペースの利用料及び交通費を補助する制度です。補助金は、利用料と交通費のそれぞれに対して最大50万円まで交付され、補助対象期間は3ヶ月間（海外企業は6ヶ月間）です。申請には、利用開始日の7日前までに必要書類を提出することが求められます。"
  },
  "a0WJ200000CDY1zMAH": {
   "id": "a0WJ200000CDY1zMAH",
@@ -6207,7 +6250,9 @@
   "request_reception_presence": "無",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1zMAH",
-  "institution_name": "【長野県茅野市】雇用促進奨励金"
+  "institution_name": "【長野県茅野市】雇用促進奨励金",
+  "summary_src_hash": "316b8ceb4510168c2f0d1e75f4984a4296ef9e1e",
+  "summary": "茅野市では、中高年齢者や子育て世代の長期雇用を促進するため、常用労働者を1年以上雇用した事業主に奨励金を支給します。対象者は、雇用期間の定めがないか、1週間の所定労働時間が20時間以上で1年以上継続雇用される者です。奨励金は対象者1人につき最大50,000円で、1回限りの交付となります。"
  },
  "a0WJ200000CDYCrMAP": {
   "id": "a0WJ200000CDYCrMAP",
@@ -6364,7 +6409,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa6IMAT",
-  "institution_name": "令和8年度介護休業取得応援奨励金"
+  "institution_name": "令和8年度介護休業取得応援奨励金",
+  "summary_src_hash": "8aa9076263e8ab26ea96c449021802956e910102",
+  "summary": "この補助金は、東京都内の中小企業が従業員の介護休業取得を促進し、職場環境を整備するための奨励金です。対象となるのは、従業員が合計15日以上の介護休業を取得し、原職復帰後3か月が経過した場合です。また、同僚への応援制度や介護離職防止のための措置を実施することで、奨励金が加算される可能性があります。"
  },
  "a0WJ200000CDb87MAD": {
   "id": "a0WJ200000CDb87MAD",
