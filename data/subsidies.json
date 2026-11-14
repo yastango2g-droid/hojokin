@@ -87,8 +87,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007Cos5EAC",
   "institution_name": "事業再構築補助金",
-  "summary_src_hash": "eee2eacfa2850cf9b6db566d2fb9ffae439a7225",
-  "summary": "この補助金は、新型コロナウイルス感染症の影響を受けた中小企業等が、ウィズコロナ・ポストコロナ時代に対応するための新分野展開や業態転換、事業再編などの取り組みを支援することを目的としています。特に、ガソリン車向け部品から電気自動車向け部品製造への転換など、グリーン分野での事業再構築を目指す事業者に重点的に支援が行われます。"
+  "summary": "この補助金は、新型コロナウイルス感染症の影響を受けた中小企業等が、ウィズコロナ・ポストコロナ時代に対応するための新分野展開や業態転換、事業再編などの取り組みを支援することを目的としています。特に、ガソリン車向け部品から電気自動車向け部品製造への転換など、グリーン分野での事業再構築を目指す事業者に重点的に支援が行われます。",
+  "summary_src_hash": "eee2eacfa2850cf9b6db566d2fb9ffae439a7225"
  },
  "a0W2x000007CrSAEA0": {
   "id": "a0W2x000007CrSAEA0",
@@ -1327,8 +1327,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
   "institution_name": "ものづくり補助金",
-  "summary_src_hash": "0cd0f84e28f9efe6928972b0a84cc53795adff4c",
-  "summary": "この補助金は、中小企業や小規模事業者が制度変更に対応するための革新的なサービス開発、試作品開発、生産プロセスの改善を目的とした設備投資を支援するものです。"
+  "summary": "この補助金は、中小企業や小規模事業者が制度変更に対応するための革新的なサービス開発、試作品開発、生産プロセスの改善を目的とした設備投資を支援するものです。",
+  "summary_src_hash": "0cd0f84e28f9efe6928972b0a84cc53795adff4c"
  },
  "a0WJ200000CDYuSMAX": {
   "id": "a0WJ200000CDYuSMAX",
@@ -1672,8 +1672,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvRMAX",
   "institution_name": "岸和田市オフィス誘致補助金",
-  "summary_src_hash": "18adccd3646f4098573a155106fde06013f6a02f",
-  "summary": "岸和田市では、オフィスの改修費や賃料、地元雇用に対する補助金を提供し、市外に本社を持つ事業者が新たにオフィスを設置することを支援します。対象となるのは、岸和田市にオフィスを持たない事業者で、オフィス開設後3年以上の業務継続や、一定数の雇用を求められます。補助金はオフィス賃借や改修、雇用促進に利用可能です。"
+  "summary": "岸和田市では、オフィスの改修費や賃料、地元雇用に対する補助金を提供し、市外に本社を持つ事業者が新たにオフィスを設置することを支援します。対象となるのは、岸和田市にオフィスを持たない事業者で、オフィス開設後3年以上の業務継続や、一定数の雇用を求められます。補助金はオフィス賃借や改修、雇用促進に利用可能です。",
+  "summary_src_hash": "18adccd3646f4098573a155106fde06013f6a02f"
  },
  "a0WfQ000004CHdtUAG": {
   "id": "a0WfQ000004CHdtUAG",
@@ -1878,8 +1878,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY24MAH",
   "institution_name": "【長野県茅野市】消費喚起イベント事業補助金",
-  "summary_src_hash": "b839b0a67656a3057a3f5d3782f25aa0dc9f6956",
-  "summary": "茅野市では、複数の市内中小企業者が共同で消費喚起や持続的な誘客を目的としたイベント事業を実施する際、その費用の一部を補助する制度があります。応募資格は、市内に事業所を有する2者以上で構成された商業者グループの主催者です。補助対象外の経費もあるため、注意が必要です。"
+  "summary": "茅野市では、複数の市内中小企業者が共同で消費喚起や持続的な誘客を目的としたイベント事業を実施する際、その費用の一部を補助する制度があります。応募資格は、市内に事業所を有する2者以上で構成された商業者グループの主催者です。補助対象外の経費もあるため、注意が必要です。",
+  "summary_src_hash": "b839b0a67656a3057a3f5d3782f25aa0dc9f6956"
  },
  "a0WJ200000CDY5GMAX": {
   "id": "a0WJ200000CDY5GMAX",
@@ -2292,8 +2292,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYCsMAP",
   "institution_name": "東広島市小児科新規開業支援事業補助金",
-  "summary_src_hash": "2c8f47673a1c1421866ccdef2f3505201aff90c0",
-  "summary": "この補助金は、東広島市内で新たに小児科を開業する医師または医療法人を支援するためのもので、開業に必要な医療機器や設備の購入費用を補助します。目的は小児医療の充実と子育て世代の満足度向上であり、市民が安心して生活できる環境を整備することです。"
+  "summary": "この補助金は、東広島市内で新たに小児科を開業する医師または医療法人を支援するためのもので、開業に必要な医療機器や設備の購入費用を補助します。目的は小児医療の充実と子育て世代の満足度向上であり、市民が安心して生活できる環境を整備することです。",
+  "summary_src_hash": "2c8f47673a1c1421866ccdef2f3505201aff90c0"
  },
  "a0WJ200000CDdm6MAD": {
   "id": "a0WJ200000CDdm6MAD",
@@ -2728,7 +2728,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQEJMA5",
-  "institution_name": "事業再構築補助金"
+  "institution_name": "事業再構築補助金",
+  "summary_src_hash": "e42189f974f2fee7f4d34ee0162e446592e6712b",
+  "summary": "この補助金は、ポストコロナの経済社会の変化に対応するために、中小企業等が新市場進出や業態転換、事業再編、地域サプライチェーンの維持・強靱化を通じて事業を再構築する取り組みを支援することを目的としています。特に、ポストコロナに対応した事業再構築を行う事業者の挑戦を重点的に支援します。"
  },
  "a0WfQ000003ENsfUAG": {
   "id": "a0WfQ000003ENsfUAG",
@@ -2865,8 +2867,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
   "institution_name": "ものづくり補助金",
-  "summary_src_hash": "0cd0f84e28f9efe6928972b0a84cc53795adff4c",
-  "summary": "この補助金は、中小企業や小規模事業者が制度変更に対応するための革新的なサービス開発、試作品開発、生産プロセスの改善を目的とした設備投資を支援するものです。"
+  "summary": "この補助金は、中小企業や小規模事業者が制度変更に対応するための革新的なサービス開発、試作品開発、生産プロセスの改善を目的とした設備投資を支援するものです。",
+  "summary_src_hash": "0cd0f84e28f9efe6928972b0a84cc53795adff4c"
  },
  "a0WJ200000CDbPLMA1": {
   "id": "a0WJ200000CDbPLMA1",
@@ -3256,8 +3258,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003n4bqUAA",
   "institution_name": "臨床研修費等補助金",
-  "summary_src_hash": "be8ae89b5a072b2e914dcb50e0c677d2763c44d3",
-  "summary": "この補助金は、研修歯科医が臨床研修に専念できる環境を整備し、歯科医師としての資質を確保することを目的としています。また、研修歯科医が患者中心の全人的医療を理解し、総合的な歯科診療能力を身に付けるための支援を行います。"
+  "summary": "この補助金は、研修歯科医が臨床研修に専念できる環境を整備し、歯科医師としての資質を確保することを目的としています。また、研修歯科医が患者中心の全人的医療を理解し、総合的な歯科診療能力を身に付けるための支援を行います。",
+  "summary_src_hash": "be8ae89b5a072b2e914dcb50e0c677d2763c44d3"
  },
  "a0WfQ000003rYGLUA2": {
   "id": "a0WfQ000003rYGLUA2",
@@ -3393,7 +3395,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UbQnSEAV",
-  "institution_name": "東京都難病・がん患者就業支援奨励金"
+  "institution_name": "東京都難病・がん患者就業支援奨励金",
+  "summary_src_hash": "743ff4f1778829d647a342197b2e1785dda4101d",
+  "summary": "東京都は、難病やがん患者が治療と仕事を両立できる社会の実現を目指し、これに取り組む企業を支援するための奨励金を支給します。この助成金は、患者が安心して活躍できる環境を整えることを目的としています。"
  },
  "a0W5h00000UbQnXEAV": {
   "id": "a0W5h00000UbQnXEAV",
@@ -3415,8 +3419,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UbQnXEAV",
   "institution_name": "東京都中小企業障害者雇用支援助成金",
-  "summary_src_hash": "beed5fe78b0a747b4346e5eab499f674c81c890c",
-  "summary": "東京都の中小企業を対象に、障害者の雇用継続を支援する助成金です。国の特定求職者雇用開発助成金の支給対象期間が満了した後も、障害者を雇用し続ける事業主に対して賃金助成が行われます。支給対象者は東京都内の事業所で働いている必要があります。"
+  "summary": "東京都の中小企業を対象に、障害者の雇用継続を支援する助成金です。国の特定求職者雇用開発助成金の支給対象期間が満了した後も、障害者を雇用し続ける事業主に対して賃金助成が行われます。支給対象者は東京都内の事業所で働いている必要があります。",
+  "summary_src_hash": "beed5fe78b0a747b4346e5eab499f674c81c890c"
  },
  "a0W5h00000ZuemGEAR": {
   "id": "a0W5h00000ZuemGEAR",
@@ -3461,8 +3465,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000000pSPQMA2",
   "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金",
-  "summary_src_hash": "73ff52c39dc304d08cb8e3ae5a759a2450bae5b1",
-  "summary": "この補助金は、中小企業が従業員の住宅、食事、健康に関する福利厚生を充実させることで、若手人材の採用と定着を図る取り組みを支援するものです。具体的には、専門家の派遣や、住宅の借上げ、食事サービス、健康増進サービスにかかる経費の助成が含まれます。"
+  "summary": "この補助金は、中小企業が従業員の住宅、食事、健康に関する福利厚生を充実させることで、若手人材の採用と定着を図る取り組みを支援するものです。具体的には、専門家の派遣や、住宅の借上げ、食事サービス、健康増進サービスにかかる経費の助成が含まれます。",
+  "summary_src_hash": "73ff52c39dc304d08cb8e3ae5a759a2450bae5b1"
  },
  "a0WJ2000008Av8bMAC": {
   "id": "a0WJ2000008Av8bMAC",
@@ -3484,8 +3488,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000008Av8bMAC",
   "institution_name": "デジタル技術活用推進助成金",
-  "summary_src_hash": "d4216b3e5a298de41f80b266be554d113b6cfe08",
-  "summary": "東京都中小企業振興公社のデジタル技術活用推進助成事業は、デジタル技術を活用する中小企業を対象とした補助金です。この助成事業は、事業完了後に必要な報告を5年間行うことが求められます。助成金が支払われた事業者が対象となります。"
+  "summary": "東京都中小企業振興公社のデジタル技術活用推進助成事業は、デジタル技術を活用する中小企業を対象とした補助金です。この助成事業は、事業完了後に必要な報告を5年間行うことが求められます。助成金が支払われた事業者が対象となります。",
+  "summary_src_hash": "d4216b3e5a298de41f80b266be554d113b6cfe08"
  },
  "a0WJ200000CDK7NMAX": {
   "id": "a0WJ200000CDK7NMAX",
@@ -3552,7 +3556,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNiaMAH",
-  "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金"
+  "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金",
+  "summary_src_hash": "f4a88bbbf3e5816b49c03e251ad00613ad364bbc",
+  "summary": "この補助金は、中小企業が住宅・食事・健康に関する福利厚生を充実させることで、若手人材の採用と定着を図る取り組みを支援するものです。具体的には、専門家の派遣や、住宅の借上げ、食事の提供、健康増進サービスにかかる経費を助成します。対象は、若手従業員の割合が30％以下で、過去3年間の若手採用数が全従業員数の10％以下の都内中小企業です。"
  },
  "a0WJ200000CDRArMAP": {
   "id": "a0WJ200000CDRArMAP",
@@ -3596,7 +3602,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDRafMAH",
-  "institution_name": "危機管理対策促進事業_事業完了後の各種申請"
+  "institution_name": "危機管理対策促進事業_事業完了後の各種申請",
+  "summary_src_hash": "7e28c56ce68d93a9f87a50eede1dadbf442e0721",
+  "summary": "東京都中小企業振興公社が実施する補助金は、危機管理対策に関連する事業に使用できる。具体的には、BCP実践促進助成金、BCP実践促進助成金(連携型)、LED照明等節電促進助成金、サイバーセキュリティ対策促進助成金が対象となる。これらの助成金は、事業完了後の各種手続きに関連している。"
  },
  "a0WJ200000CDUvzMAH": {
   "id": "a0WJ200000CDUvzMAH",
@@ -3618,8 +3626,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUvzMAH",
   "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金",
-  "summary_src_hash": "3b351aa088122c488975e54e6f1b52f5db954004",
-  "summary": "この補助金は、住宅・食事・健康に関する福利厚生を充実させることで、若手人材の採用と定着を目指す中小企業を支援する事業です。具体的には、専門家の派遣や、住宅の借上げ、食事提供、健康増進サービスにかかる経費を助成します。対象は、若手従業員の割合が30％以下で、過去3年間の採用数が全従業員数の10％以下の都内中小企業です。"
+  "summary": "この補助金は、住宅・食事・健康に関する福利厚生を充実させることで、若手人材の採用と定着を目指す中小企業を支援する事業です。具体的には、専門家の派遣や、住宅の借上げ、食事提供、健康増進サービスにかかる経費を助成します。対象は、若手従業員の割合が30％以下で、過去3年間の採用数が全従業員数の10％以下の都内中小企業です。",
+  "summary_src_hash": "3b351aa088122c488975e54e6f1b52f5db954004"
  },
  "a0WJ200000CDVxKMAX": {
   "id": "a0WJ200000CDVxKMAX",
@@ -3641,8 +3649,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVxKMAX",
   "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金",
-  "summary_src_hash": "1e57d88dec42998f05b9df5d77f66c4860a88d14",
-  "summary": "この補助金は、住宅・食事・健康に関する福利厚生を充実させることで、若手人材の採用と定着を目指す中小企業を支援する事業です。具体的には、専門家の派遣や、住宅の借上げ、食事の提供、健康増進サービスにかかる経費を助成します。対象は、若手従業員の割合が30％以下の都内中小企業です。"
+  "summary": "この補助金は、住宅・食事・健康に関する福利厚生を充実させることで、若手人材の採用と定着を目指す中小企業を支援する事業です。具体的には、専門家の派遣や、住宅の借上げ、食事の提供、健康増進サービスにかかる経費を助成します。対象は、若手従業員の割合が30％以下の都内中小企業です。",
+  "summary_src_hash": "1e57d88dec42998f05b9df5d77f66c4860a88d14"
  },
  "a0WJ200000CDX1KMAX": {
   "id": "a0WJ200000CDX1KMAX",
@@ -3940,8 +3948,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk9MAH",
   "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金",
-  "summary_src_hash": "03ab97cc623e092e099137a97194ac27a1b5c481",
-  "summary": "この補助金は、中小企業が住宅・食事・健康に関する福利厚生を充実させることで、若手人材の採用と定着を図るための支援を目的としています。具体的には、専門家の派遣や、住宅の借上げ、食事提供、健康増進サービスにかかる経費を助成します。助成対象は、若手従業員の割合が一定以下の都内中小企業です。"
+  "summary": "この補助金は、中小企業が住宅・食事・健康に関する福利厚生を充実させることで、若手人材の採用と定着を図るための支援を目的としています。具体的には、専門家の派遣や、住宅の借上げ、食事提供、健康増進サービスにかかる経費を助成します。助成対象は、若手従業員の割合が一定以下の都内中小企業です。",
+  "summary_src_hash": "03ab97cc623e092e099137a97194ac27a1b5c481"
  },
  "a0WJ200000CDYkAMAX": {
   "id": "a0WJ200000CDYkAMAX",
@@ -3962,7 +3970,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkAMAX",
-  "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金"
+  "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金",
+  "summary_src_hash": "4a27ab578a97bfbe35491701b532ef7538307c1c",
+  "summary": "この補助金は、中小企業が住宅・食事・健康に関する福利厚生を充実させることで、若手人材の採用と定着を図るための支援を目的としています。具体的には、専門家の派遣や、住宅の借上げ、食事の提供、健康増進サービスの提供にかかる経費を助成します。助成対象は、若手従業員の割合が一定以下の都内中小企業です。"
  },
  "a0WJ200000CDYkBMAX": {
   "id": "a0WJ200000CDYkBMAX",
@@ -3984,8 +3994,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkBMAX",
   "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金",
-  "summary_src_hash": "086ec636d53611fdcc13f33f005b2d5a37cea007",
-  "summary": "この補助金は、中小企業が住宅・食事・健康に関する福利厚生を充実させることで、若手人材の採用と定着を図る取り組みを支援するものです。具体的には、専門家の派遣や、住宅の借上げ、食事の提供、健康増進サービスの提供にかかる経費を助成します。助成対象は、若手従業員の割合が一定以下の都内中小企業です。"
+  "summary": "この補助金は、中小企業が住宅・食事・健康に関する福利厚生を充実させることで、若手人材の採用と定着を図る取り組みを支援するものです。具体的には、専門家の派遣や、住宅の借上げ、食事の提供、健康増進サービスの提供にかかる経費を助成します。助成対象は、若手従業員の割合が一定以下の都内中小企業です。",
+  "summary_src_hash": "086ec636d53611fdcc13f33f005b2d5a37cea007"
  },
  "a0WJ200000CDYyhMAH": {
   "id": "a0WJ200000CDYyhMAH",
@@ -4263,29 +4273,6 @@
   "summary": "業務改善助成金は、中小企業・小規模事業者が生産性向上を図るための設備投資等に対して、その費用の一部を助成する制度です。具体的には、事業場内最低賃金を50円以上引き上げることを条件に、関連する設備投資を行った場合に適用されます。",
   "summary_src_hash": "499df4cfea27b94890a7b90f6ad1ef78552938f1"
  },
- "a0WJ200000CDe6WMAT": {
-  "id": "a0WJ200000CDe6WMAT",
-  "name": "S-00009723",
-  "title": "【佐賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-  "subsidy_catch_phrase": null,
-  "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">業務改善助成金は、中小企業・小規模事業者の生産性向上を支援し、事業場内で最も低い賃金（事業場内最低賃金）を50円以上引き上げ、生産性向上に資する設備投資等を行った場合に、その設備投資等にかかった費用の一部を助成する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■注意事項</strong></p><p><strong style=\"font-size: 12.8px;\">○この申請フォームは</strong><strong style=\"font-size: 12.8px; color: rgb(255, 0, 0);\">佐賀</strong><strong style=\"font-size: 12.8px;\">労働局への申請フォームです。申請先に誤りがないようにご注意お願いいたします。</strong></p><p><br></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに掲載している令和８年度申請分の交付要綱・交付要領や、申請マニュアル等を熟読のうえ、申請してください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○</span><strong style=\"color: rgb(24, 24, 24);\">申請期間は令和８年９月１日から申請事業場の都道府県において適用される地域別最低賃金の発効日の前日又は同年11月30日のいずれか早い日となります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請フォームに必要事項を記入したうえで、作成した交付申請書・添付書類を申請フォームの「申請書類」欄にアップロードしてください。</span></p><p><strong style=\"color: rgb(24, 24, 24);\"> 交付申請の際に書類の添付漏れや記載ミス等が多く見受けられます。申請ボタンをクリックする前に今一度ご確認いただけますと幸いです。</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> また、交付申請後に書類の修正や添付漏れがわかった場合は、申請を行った都道府県労働局雇用環境・均等部（室）に連絡ください。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○故意に申請書に事実異なる記載をした場合や添付書類の偽造などにより、偽りその他不正の行為による申請（不正受給）を行った場合は、</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> 不正受給額の返還に加え、加算金を支払う義務を負う場合や刑事事件として告発等される場合があります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○提出先は事業場の所在地を管轄する都道府県労働局となります。誤った提出先に申請を行った場合は、当該申請先の労働局において「棄却」処理を行いますので、再度正しい提出先へ申請をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span><strong style=\"color: rgb(24, 24, 24);\">※申請期間内に正しい提出先へ申請いただく必要がありますので、提出先の誤りがないようご注意をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請の審査や助成金の支払は事業場所在地を管轄する都道府県労働局で実施します。申請書類等について都道府県労働局から問い合わせがある場合がございますので、ご了承ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○現在、取得財産の処分に係る事前承認手続きなど、一部の手続きは電子申請ができません。これらの手続きは、都道府県労働局に対し、直接行うこととしてください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに、交付要領や申請マニュアル、Q&amp;A、申請書の作成に便利なお役立ちツール等を掲載しています。申請前に、下記参照URLよりご覧ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付要綱・各種様式</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html#h2_free9\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html#h2_free9</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■Jグランツ申請マニュアル﻿</strong></p><p><a href=\"https://www.mhlw.go.jp/content/11200000/001734001.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">001734001.pdf</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■お問合せ先</strong></p><p><span style=\"color: rgb(24, 24, 24);\">業務改善助成金コールセンター</span></p><p><span style=\"color: rgb(24, 24, 24);\">０１２０－３６６－４４０（受付時間 平日 ９：００～１７：００）</span></p><p><br></p><p><span style=\"font-size: 10.5pt;\"> </span></p><p><span style=\"font-size: 10.5pt;\">※業務改善助成金はJグランツの「この補助金に問い合わせる」機能には対応しておりません。</span></p>",
-  "use_purpose": "設備整備・IT導入をしたい",
-  "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-  "target_area_search": "佐賀県",
-  "target_area_detail": null,
-  "target_number_of_employees": "従業員数の制約なし",
-  "subsidy_rate": "３／４～４／５",
-  "subsidy_max_limit": 6000000,
-  "acceptance_start_datetime": "2026-08-31T15:00Z",
-  "acceptance_end_datetime": "2026-11-14T14:59Z",
-  "project_end_deadline": null,
-  "request_reception_presence": "有",
-  "is_enable_multiple_request": true,
-  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6WMAT",
-  "institution_name": "業務改善助成金",
-  "summary": "業務改善助成金は、中小企業・小規模事業者が生産性向上を図るための設備投資等にかかる費用の一部を助成する制度です。具体的には、事業場内最低賃金を50円以上引き上げることを条件に、関連する設備投資を行った場合に支援が受けられます。",
-  "summary_src_hash": "3e95137ca4cc63d44532928e34494d42dd3aad0f"
- },
  "a0WfQ000003ao2zUAA": {
   "id": "a0WfQ000003ao2zUAA",
   "name": "S-00009904",
@@ -4329,8 +4316,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTOMA1",
   "institution_name": "地域医療確保に係る緊急・臨時支援事業支援金",
-  "summary_src_hash": "474141b4f22fab5ccc5384b548684c6af57eb188",
-  "summary": "東京都では、地域医療体制を確保するため、物価高騰を考慮した緊急的な支援を行います。具体的には、入院患者1人当たり1日500円を医療機関に支払う支援金や、救急車受入件数に応じた支援金を提供します。対象は東京都内の病院の開設者で、特定の団体は除外されます。"
+  "summary": "東京都では、地域医療体制を確保するため、物価高騰を考慮した緊急的な支援を行います。具体的には、入院患者1人当たり1日500円を医療機関に支払う支援金や、救急車受入件数に応じた支援金を提供します。対象は東京都内の病院の開設者で、特定の団体は除外されます。",
+  "summary_src_hash": "474141b4f22fab5ccc5384b548684c6af57eb188"
  },
  "a0WJ200000CDXFjMAP": {
   "id": "a0WJ200000CDXFjMAP",
@@ -4490,8 +4477,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbosMAD",
   "institution_name": "地域医療確保に係る緊急・臨時支援事業支援金",
-  "summary_src_hash": "5959af941ef4eff5e5702d539349f3f6032496fd",
-  "summary": "東京都では、地域医療体制を確保するため、物価高騰を考慮した緊急的な支援を実施します。具体的には、東京都内の病院に対し、入院患者1人当たり1日500円の支援金を給付します。この支援は、医療法に基づく病院の開設者が対象となります。"
+  "summary": "東京都では、地域医療体制を確保するため、物価高騰を考慮した緊急的な支援を実施します。具体的には、東京都内の病院に対し、入院患者1人当たり1日500円の支援金を給付します。この支援は、医療法に基づく病院の開設者が対象となります。",
+  "summary_src_hash": "5959af941ef4eff5e5702d539349f3f6032496fd"
  },
  "a0WJ200000CDXvUMAX": {
   "id": "a0WJ200000CDXvUMAX",
@@ -4582,8 +4569,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003l6UrUAI",
   "institution_name": "医療分野における業務効率化・職場環境改善支援事業",
-  "summary_src_hash": "5752db89952e0a2e4bf33de08354a149ed9eb5c9",
-  "summary": "この補助金は、医療機関がICT機器等を導入し、業務効率化や職場環境の改善を図るための経費を支援するものです。対象となる経費には、スマートフォンや業務用インカム、患者見守り支援機器、生成AIを活用した業務支援サービスなどが含まれます。また、設置費用や訓練費用、効果測定費用なども対象ですが、電子カルテの導入・更新費用や施設整備費用は対象外です。"
+  "summary": "この補助金は、医療機関がICT機器等を導入し、業務効率化や職場環境の改善を図るための経費を支援するものです。対象となる経費には、スマートフォンや業務用インカム、患者見守り支援機器、生成AIを活用した業務支援サービスなどが含まれます。また、設置費用や訓練費用、効果測定費用なども対象ですが、電子カルテの導入・更新費用や施設整備費用は対象外です。",
+  "summary_src_hash": "5752db89952e0a2e4bf33de08354a149ed9eb5c9"
  },
  "a0WfQ000003myubUAA": {
   "id": "a0WfQ000003myubUAA",
@@ -4788,7 +4775,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTtMAL",
-  "institution_name": "東京都救命救急センター施設整備等補助事業（運営費）"
+  "institution_name": "東京都救命救急センター施設整備等補助事業（運営費）",
+  "summary_src_hash": "9cdfbfeba18299ca55e100847bcc1d1fd045ef3e",
+  "summary": "この補助金は、東京都内の医療機関が救命救急センターを運営する事業に対して交付されるもので、重篤・重症救急患者の医療を確保し、救急医療の体系的整備を図ることを目的としています。"
  },
  "a0WJ200000CDYSPMA5": {
   "id": "a0WJ200000CDYSPMA5",
@@ -4969,8 +4958,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdL9MAL",
   "institution_name": "0101475 医学技術振興事業",
-  "summary_src_hash": "447df6bc89536814b4a1e9143068450cada1fe78",
-  "summary": "この補助金は、会員の資質向上事業および医療と健康に関する都民への普及啓発事業に対して提供されるもので、地域の保健医療の確保と充実、患者中心の医療の実現を目的としています。対象となるのは、公益社団法人東京都医師会および東京都歯科医師会です。"
+  "summary": "この補助金は、会員の資質向上事業および医療と健康に関する都民への普及啓発事業に対して提供されるもので、地域の保健医療の確保と充実、患者中心の医療の実現を目的としています。対象となるのは、公益社団法人東京都医師会および東京都歯科医師会です。",
+  "summary_src_hash": "447df6bc89536814b4a1e9143068450cada1fe78"
  },
  "a0WJ200000CDY2OMAX": {
   "id": "a0WJ200000CDY2OMAX",
@@ -5176,8 +5165,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003MWE2UAO",
   "institution_name": "令和８年度病院勤務者勤務環境改善事業・救急医療体制強化事業",
-  "summary_src_hash": "b0b9c7b194ad3cf50c47c488ed77cd1e50fcdfc4",
-  "summary": "この補助金は、病院が医師や看護職員の勤務環境を改善し、離職防止や再就業支援を行う取り組みに対して支援されるものです。具体的には、復職研修、就労環境改善、相談窓口の設置、チーム医療の推進、及び勤務環境改善のための施設や設備の整備が対象となります。また、救急医療体制の強化に資する事業も含まれます。"
+  "summary": "この補助金は、病院が医師や看護職員の勤務環境を改善し、離職防止や再就業支援を行う取り組みに対して支援されるものです。具体的には、復職研修、就労環境改善、相談窓口の設置、チーム医療の推進、及び勤務環境改善のための施設や設備の整備が対象となります。また、救急医療体制の強化に資する事業も含まれます。",
+  "summary_src_hash": "b0b9c7b194ad3cf50c47c488ed77cd1e50fcdfc4"
  },
  "a0WJ200000CDZzQMAX": {
   "id": "a0WJ200000CDZzQMAX",
@@ -5314,8 +5303,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOrTMAX",
   "institution_name": "東京都中小企業障害者雇用スタート支援奨励事業",
-  "summary_src_hash": "5b6c583681a501fee75feb785032b713b9e06243",
-  "summary": "この補助金は、初めて障害者を雇用する中小事業主を支援するための奨励金です。東京都は、障害を持つ方が希望とやりがいを持って活躍できる社会の実現を目指しており、雇用を促進するための支援を行っています。"
+  "summary": "この補助金は、初めて障害者を雇用する中小事業主を支援するための奨励金です。東京都は、障害を持つ方が希望とやりがいを持って活躍できる社会の実現を目指しており、雇用を促進するための支援を行っています。",
+  "summary_src_hash": "5b6c583681a501fee75feb785032b713b9e06243"
  },
  "a0WfQ000003ePpBUAU": {
   "id": "a0WfQ000003ePpBUAU",
@@ -5382,7 +5371,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003kp5pUAA",
-  "institution_name": "東京都救命救急センター施設整備等補助事業（運営費）"
+  "institution_name": "東京都救命救急センター施設整備等補助事業（運営費）",
+  "summary_src_hash": "65d1e9611cc2413c239a6651ef5f1cb9dbd5e4b3",
+  "summary": "この補助金は、東京都内の医療機関が救命救急センターの整備及び運営を行う事業に対して交付されるもので、重篤・重症救急患者の医療を確保し、救急医療の体系的整備を図ることを目的としています。"
  },
  "a0WfQ000003kpQnUAI": {
   "id": "a0WfQ000003kpQnUAI",
@@ -5403,7 +5394,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003kpQnUAI",
-  "institution_name": "東京都救命救急センター施設整備等補助事業（運営費）"
+  "institution_name": "東京都救命救急センター施設整備等補助事業（運営費）",
+  "summary_src_hash": "65d1e9611cc2413c239a6651ef5f1cb9dbd5e4b3",
+  "summary": "この補助金は、東京都内の医療機関が救命救急センターの整備及び運営を行う事業に対して交付されるもので、重篤・重症救急患者の医療を確保し、救急医療の体系的整備を図ることを目的としています。"
  },
  "a0WfQ000003kpc5UAA": {
   "id": "a0WfQ000003kpc5UAA",
@@ -5424,7 +5417,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003kpc5UAA",
-  "institution_name": "東京都救命救急センター施設整備等補助事業（運営費）"
+  "institution_name": "東京都救命救急センター施設整備等補助事業（運営費）",
+  "summary_src_hash": "65d1e9611cc2413c239a6651ef5f1cb9dbd5e4b3",
+  "summary": "この補助金は、東京都内の医療機関が救命救急センターの整備及び運営を行う事業に対して交付されるもので、重篤・重症救急患者の医療を確保し、救急医療の体系的整備を図ることを目的としています。"
  },
  "a0WfQ000003poQrUAI": {
   "id": "a0WfQ000003poQrUAI",
@@ -5584,8 +5579,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003vH2PUAU",
   "institution_name": "中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業",
-  "summary_src_hash": "e20cc9399ee5feb36e4a0446ba659d8b9d16d9f5",
-  "summary": "中東情勢による原材料価格高騰の影響を受ける都内中小企業を対象に、原材料費の縮減や価格転嫁に向けた取組を支援する補助金です。助成対象経費には、原材料・副資材費、機械装置・工具器具費、設備導入費、専門家指導費、販路開拓経費などが含まれます。"
+  "summary": "中東情勢による原材料価格高騰の影響を受ける都内中小企業を対象に、原材料費の縮減や価格転嫁に向けた取組を支援する補助金です。助成対象経費には、原材料・副資材費、機械装置・工具器具費、設備導入費、専門家指導費、販路開拓経費などが含まれます。",
+  "summary_src_hash": "e20cc9399ee5feb36e4a0446ba659d8b9d16d9f5"
  },
  "a0W2x000003QZLqEAO": {
   "id": "a0W2x000003QZLqEAO",
@@ -5676,8 +5671,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNhQMAX",
   "institution_name": "100億宣言",
-  "summary_src_hash": "cfbd2d7500103275c3f5659468fe7fb5c68ee819",
-  "summary": "「100億宣言」は、中小企業が「売上高100億円」を目指すための取り組みを支援する補助金です。宣言を行った企業は、補助金や税制の活用、経営者ネットワークへの参加、成長ポータルへの掲載が可能になります。これにより、企業の飛躍的成長を促進することを目的としています。"
+  "summary": "「100億宣言」は、中小企業が「売上高100億円」を目指すための取り組みを支援する補助金です。宣言を行った企業は、補助金や税制の活用、経営者ネットワークへの参加、成長ポータルへの掲載が可能になります。これにより、企業の飛躍的成長を促進することを目的としています。",
+  "summary_src_hash": "cfbd2d7500103275c3f5659468fe7fb5c68ee819"
  },
  "a0WJ200000CDXH1MAP": {
   "id": "a0WJ200000CDXH1MAP",
@@ -6043,7 +6038,9 @@
   "request_reception_presence": "有",
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UbQnPEAV",
-  "institution_name": "東京都障害者安定雇用奨励金"
+  "institution_name": "東京都障害者安定雇用奨励金",
+  "summary_src_hash": "85409ee8acc3b177f1dfb469cec9b0efebe5f1da",
+  "summary": "この補助金は、障害を持つ方が安定的に雇用され、処遇改善に取り組む企業を支援するための奨励金です。東京都は、障害者が希望とやりがいを持って活躍できる社会の実現を目指しており、企業の雇用促進を応援します。"
  },
  "a0WJ200000CDXFfMAP": {
   "id": "a0WJ200000CDXFfMAP",
@@ -6249,8 +6246,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk5MAH",
   "institution_name": "令和8年度「年収の壁突破」総合対策促進奨励金",
-  "summary_src_hash": "186bfd023326e7551198fe043a093fda6063a787",
-  "summary": "働く意欲のある女性が能力を発揮できる環境を整備するため、配偶者手当の見直しや社会保険に加入した非正規雇用者向けの手当を新設した都内中小企業事業主に対して奨励金が交付されます。"
+  "summary": "働く意欲のある女性が能力を発揮できる環境を整備するため、配偶者手当の見直しや社会保険に加入した非正規雇用者向けの手当を新設した都内中小企業事業主に対して奨励金が交付されます。",
+  "summary_src_hash": "186bfd023326e7551198fe043a093fda6063a787"
  },
  "a0WJ200000CDZz2MAH": {
   "id": "a0WJ200000CDZz2MAH",
@@ -6318,8 +6315,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb87MAD",
   "institution_name": "企業立地優遇制度（今治市企業立地促進条例）",
-  "summary_src_hash": "add94690b0afdc1ea52c0c5c5db8d99ccfa2272b",
-  "summary": "今治市内で新たに事業所を開設する賃貸借型企業に対し、オフィス賃借料を最大36ヶ月交付する制度です。対象業種には情報通信業や学術研究、専門・技術サービス業が含まれ、新規雇用従業員が2人以上必要です。また、新規雇用に対しては雇用促進奨励金も交付されます。"
+  "summary": "今治市内で新たに事業所を開設する賃貸借型企業に対し、オフィス賃借料を最大36ヶ月交付する制度です。対象業種には情報通信業や学術研究、専門・技術サービス業が含まれ、新規雇用従業員が2人以上必要です。また、新規雇用に対しては雇用促進奨励金も交付されます。",
+  "summary_src_hash": "add94690b0afdc1ea52c0c5c5db8d99ccfa2272b"
  },
  "a0WJ200000CDb88MAD": {
   "id": "a0WJ200000CDb88MAD",
@@ -6341,8 +6338,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb88MAD",
   "institution_name": "企業立地優遇制度（今治市企業立地促進条例）",
-  "summary_src_hash": "aa26ca1fb41dabdc2d00cf44c66028347dbc917b",
-  "summary": "今治市内で新たに事業所を開設する賃貸借型企業に対し、事業所開設に伴う改装費用や機器購入費用を交付する補助金です。対象業種には情報通信業や学術研究、専門・技術サービス業が含まれ、新規雇用従業員が2人以上必要です。"
+  "summary": "今治市内で新たに事業所を開設する賃貸借型企業に対し、事業所開設に伴う改装費用や機器購入費用を交付する補助金です。対象業種には情報通信業や学術研究、専門・技術サービス業が含まれ、新規雇用従業員が2人以上必要です。",
+  "summary_src_hash": "aa26ca1fb41dabdc2d00cf44c66028347dbc917b"
  },
  "a0WJ200000CDb89MAD": {
   "id": "a0WJ200000CDb89MAD",
@@ -6364,7 +6361,7 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb89MAD",
   "institution_name": "企業立地優遇制度（今治市企業立地促進条例）",
-  "summary_src_hash": "044f86e998f60f320994685d7cd7dbc2d6882ac1",
-  "summary": "今治市への立地に伴い新たに市内に居住する従業員を雇用した企業に対し、最大50万円の奨励金が交付される制度です。対象となるのは「企業立地促進奨励金」または「賃貸借型企業立地奨励金」の指定を受けた企業で、特定の業種に限られます。新規雇用従業員は、操業開始の1年前から6ヶ月以内に雇用され、申請時に今治市に居住し、1年以上雇用されている必要があります。"
+  "summary": "今治市への立地に伴い新たに市内に居住する従業員を雇用した企業に対し、最大50万円の奨励金が交付される制度です。対象となるのは「企業立地促進奨励金」または「賃貸借型企業立地奨励金」の指定を受けた企業で、特定の業種に限られます。新規雇用従業員は、操業開始の1年前から6ヶ月以内に雇用され、申請時に今治市に居住し、1年以上雇用されている必要があります。",
+  "summary_src_hash": "044f86e998f60f320994685d7cd7dbc2d6882ac1"
  }
 }
