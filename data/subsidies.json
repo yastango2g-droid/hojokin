@@ -4457,29 +4457,6 @@
   "summary": "条件不利地域において、携帯電話等の利用を可能にし、5Gによる高度な無線通信を実現するための事業に使える補助金です。具体的には、地方公共団体や無線通信事業者が基地局施設や伝送路施設を整備する際の費用を国が一部補助します。",
   "summary_src_hash": "f6735f4f9848ed36940589ed016a594a131dd8f9"
  },
- "a0WfQ000003j5GLUAY": {
-  "id": "a0WfQ000003j5GLUAY",
-  "name": "S-00009938",
-  "title": "「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の第3回公募",
-  "subsidy_catch_phrase": null,
-  "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、第3回「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CA2_100511.html  \" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CA2_100511.html  </a></p>",
-  "use_purpose": "研究開発・実証事業を行いたい",
-  "industry": "学術研究、専門・技術サービス業",
-  "target_area_search": "全国",
-  "target_area_detail": null,
-  "target_number_of_employees": "従業員数の制約なし",
-  "subsidy_rate": null,
-  "subsidy_max_limit": 0,
-  "acceptance_start_datetime": "2026-11-10T01:00Z",
-  "acceptance_end_datetime": "2026-11-17T03:00Z",
-  "project_end_deadline": null,
-  "request_reception_presence": "有",
-  "is_enable_multiple_request": true,
-  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003j5GLUAY",
-  "institution_name": "P25001_GX 分野のディープテック・スタートアップへの事業開発支援事業",
-  "summary": "GX分野のディープテック・スタートアップに対する事業開発支援を目的とした補助金です。応募者は、NEDOのホームページを確認の上、受託を希望することが求められています。",
-  "summary_src_hash": "de6403ff0e7675dfc78bb42c769a26775871628c"
- },
  "a0WfQ000003l6UrUAI": {
   "id": "a0WfQ000003l6UrUAI",
   "name": "S-00009957",
@@ -4684,8 +4661,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rcVFUAY",
   "institution_name": "経営力強化に向けた創意工夫チャレンジ促進事業(賃上げ重点コース)",
-  "summary_src_hash": "51835d916662080320563c2818a4c174c2f6fc15",
-  "summary": "物価高騰や社会情勢の変化に対応するため、中小企業が創意工夫を活かして既存事業を深化・発展させる計画を作成した場合に支援を行う補助金です。対象は東京都内で事業を行う中小企業者で、審査で認められた経費が助成対象となります。"
+  "summary": "物価高騰や社会情勢の変化に対応するため、中小企業が創意工夫を活かして既存事業を深化・発展させる計画を作成した場合に支援を行う補助金です。対象は東京都内で事業を行う中小企業者で、審査で認められた経費が助成対象となります。",
+  "summary_src_hash": "51835d916662080320563c2818a4c174c2f6fc15"
  },
  "a0WJ200000CDYSFMA5": {
   "id": "a0WJ200000CDYSFMA5",
@@ -4935,8 +4912,8 @@
   "is_enable_multiple_request": true,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qLZhUAM",
   "institution_name": "ポスト５Ｇ情報通信システム基盤強化研究開発事業",
-  "summary_src_hash": "86835548dd7d4effc933f0c5d7e461e6808379d7",
-  "summary": "この補助金は、ポスト5G情報通信システム基盤の強化や、記録レス介護を実現するための介護特化モデルに関する研究開発に使用できる。"
+  "summary": "この補助金は、ポスト5G情報通信システム基盤の強化や、記録レス介護を実現するための介護特化モデルに関する研究開発に使用できる。",
+  "summary_src_hash": "86835548dd7d4effc933f0c5d7e461e6808379d7"
  },
  "a0WfQ000003CYIjUAO": {
   "id": "a0WfQ000003CYIjUAO",
