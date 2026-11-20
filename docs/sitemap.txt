@@ -28,11 +28,6 @@ https://yastango2g-droid.github.io/hojokin/area/yamagata.html
 https://yastango2g-droid.github.io/hojokin/area/kumamoto.html
 https://yastango2g-droid.github.io/hojokin/area/fukui.html
 https://yastango2g-droid.github.io/hojokin/area/mie.html
-https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDXkJMAX.html
-https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDd3OMAT.html
-https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDd3YMAT.html
-https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003ENsfUAG.html
-https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDYbNMAX.html
 https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003rLvpUAE.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDe82MAD.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDYDCMA5.html
@@ -55,7 +50,6 @@ https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDZ1GMAX.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDYsRMAX.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDKBZMA5.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDeYeMAL.html
-https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDderMAD.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDYUmMAP.html
 https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003aZqLUAU.html
 https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003ykxVUAQ.html
@@ -65,9 +59,11 @@ https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDe6cMAD.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDdueMAD.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDXvUMAX.html
 https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003ot1BUAQ.html
+https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDWQuMAP.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDdNtMAL.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDYR2MAP.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDbyjMAD.html
+https://yastango2g-droid.github.io/hojokin/s/a0WfQ0000047V4oUAE.html
 https://yastango2g-droid.github.io/hojokin/s/a0WfQ0000049swXUAQ.html
 https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003znYLUAY.html
 https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003zgNCUAY.html
@@ -86,6 +82,7 @@ https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDYC7MAP.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDdicMAD.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDYBxMAP.html
 https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003wLYbUAM.html
+https://yastango2g-droid.github.io/hojokin/s/a0WfQ0000043Od4UAE.html
 https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003cAFxUAM.html
 https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003rYGLUA2.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDa1bMAD.html
@@ -95,6 +92,7 @@ https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDddbMAD.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDddWMAT.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDddXMAT.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDXjyMAH.html
+https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDderMAD.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDXjxMAH.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDYUlMAP.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDdfpMAD.html
@@ -237,8 +235,6 @@ https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDYCnMAP.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDbHxMAL.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDOsKMAX.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDY2OMAX.html
-https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003poQrUAI.html
-https://yastango2g-droid.github.io/hojokin/s/a0WfQ000003qEuoUAE.html
 https://yastango2g-droid.github.io/hojokin/s/a0W2x000003QZLqEAO.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDVm7MAH.html
 https://yastango2g-droid.github.io/hojokin/s/a0WJ200000CDY6cMAH.html
