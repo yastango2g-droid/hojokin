@@ -122,7 +122,7 @@ def make_views(page, fmt_dt, fmt_yen, area_of, jst, affiliate_block, DISCLAIMER,
         month_n = sum(1 for _, e in items if e and (e.year, e.month) == (now.year, now.month))
         soon_n = sum(1 for _, e in items if e and days_left(e) <= 14)
         hero = f"""<section class="hero"><div class="w">
-<h1>あなたの事業に使える補助金を、<br>かんたんに探せます</h1>
+<h1>あなたの事業に使える補助金を、かんたんに探せます</h1>
 <p>{esc(SITE_DESC)}</p>
 <div class="stats"><div class="stat"><b>{len(items)}</b><span>募集中の補助金</span></div>
 <div class="stat"><b>{soon_n}</b><span>14日以内に締切</span></div>
