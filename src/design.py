@@ -37,7 +37,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .hero h1{margin:0 0 4px;font-size:1.3rem;line-height:1.4;letter-spacing:.01em}
 .hero p{margin:0;font-size:.86rem}
 .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:10px}
-@media(max-width:719px){.stats{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:719px){.hero p{display:none}.stats{gap:6px}.stat{padding:4px 7px}.stat b{font-size:1.05rem}.stat span{font-size:.68rem;line-height:1.3;display:block}}
 .stat{background:rgba(255,255,255,.18);border-radius:10px;padding:4px 12px}
 .stat b{display:block;font-size:1.1rem;line-height:1.3}
 .stat span{font-size:.78rem}
