@@ -170,6 +170,7 @@ def main():
         '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
         + "".join(f"<url><loc>{u}</loc><lastmod>{NOW:%Y-%m-%d}</lastmod></url>" for u in urls) + "</urlset>",
         encoding="utf-8")
+    (OUT_DIR / "sitemap.txt").write_text(chr(10).join(urls) + chr(10), encoding="utf-8")  # XMLが読まれない場合の予備
     (OUT_DIR / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
     print(f"生成: {len(items)} 件 → {OUT_DIR}")
 
