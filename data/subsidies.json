@@ -2637,8 +2637,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUWMA5",
   "institution_name": "さいたま市商用車の電動化等普及促進補助金",
-  "summary_src_hash": "216b3c671a3c7b251fdd255ea3622fefc4dbdad6",
-  "summary": "この補助金は、商用車の電動化を促進するために、電動化されたバスやトラックの導入に対して経費の一部を補助するものです。対象となるのは、ハイブリッド自動車、プラグインハイブリッド自動車、電気自動車、燃料電池自動車で、事業用に供する者や自動車リース事業者が申請できます。"
+  "summary": "この補助金は、商用車の電動化を促進するために、電動化されたバスやトラックの導入に対して経費の一部を補助するものです。対象となるのは、ハイブリッド自動車、プラグインハイブリッド自動車、電気自動車、燃料電池自動車で、事業用に供する者や自動車リース事業者が申請できます。",
+  "summary_src_hash": "216b3c671a3c7b251fdd255ea3622fefc4dbdad6"
  },
  "a0WJ200000CDYUVMA5": {
   "id": "a0WJ200000CDYUVMA5",
@@ -2660,8 +2660,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUVMA5",
   "institution_name": "さいたま市創エネ・蓄エネ設備導入補助金",
-  "summary_src_hash": "d246f024c0271822d6a0a33acb4263d1ace64aab",
-  "summary": "この補助金は、地球温暖化対策を目的とし、脱炭素社会の実現に向けて、事業者や団体が自ら所有または使用する事業所に創エネ・蓄エネ設備を設置する事業に対して交付されます。対象設備には、太陽光発電設備、蓄電池、コージェネレーションシステムが含まれ、さいたま市内での設置が条件です。"
+  "summary": "この補助金は、地球温暖化対策を目的とし、脱炭素社会の実現に向けて、事業者や団体が自ら所有または使用する事業所に創エネ・蓄エネ設備を設置する事業に対して交付されます。対象設備には、太陽光発電設備、蓄電池、コージェネレーションシステムが含まれ、さいたま市内での設置が条件です。",
+  "summary_src_hash": "d246f024c0271822d6a0a33acb4263d1ace64aab"
  },
  "a0WJ200000CDYUTMA5": {
   "id": "a0WJ200000CDYUTMA5",
@@ -2683,8 +2683,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUTMA5",
   "institution_name": "さいたま市電気自動車等普及促進対策補助金",
-  "summary_src_hash": "8958bc539aa6a6a046ce99ad78401cd9832e5698",
-  "summary": "この補助金は、電気自動車、燃料電池自動車及びV2H充放電機器の導入を支援するもので、対象者はさいたま市内に住所または事業所を有する個人や法人です。目的は、電気自動車等への転換を促進し、二酸化炭素の排出削減及び大気汚染の改善を図ることです。"
+  "summary": "この補助金は、電気自動車、燃料電池自動車及びV2H充放電機器の導入を支援するもので、対象者はさいたま市内に住所または事業所を有する個人や法人です。目的は、電気自動車等への転換を促進し、二酸化炭素の排出削減及び大気汚染の改善を図ることです。",
+  "summary_src_hash": "8958bc539aa6a6a046ce99ad78401cd9832e5698"
  },
  "a0WJ200000CDYUUMA5": {
   "id": "a0WJ200000CDYUUMA5",
@@ -2706,8 +2706,8 @@
   "is_enable_multiple_request": false,
   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUUMA5",
   "institution_name": "さいたま市重点対策加速化事業補助金",
-  "summary_src_hash": "aa3701cf53606f339223e50fe6765b957b7b7119",
-  "summary": "この補助金は、さいたま市内の事業所が太陽光発電設備や蓄電池を導入するための費用の一部を支援するものです。具体的には、太陽光発電設備（12kW超）や蓄電池の設置に対して補助が行われ、脱炭素社会の実現を目指しています。対象者は市内の事業所を所有または使用する事業者です。"
+  "summary": "この補助金は、さいたま市内の事業所が太陽光発電設備や蓄電池を導入するための費用の一部を支援するものです。具体的には、太陽光発電設備（12kW超）や蓄電池の設置に対して補助が行われ、脱炭素社会の実現を目指しています。対象者は市内の事業所を所有または使用する事業者です。",
+  "summary_src_hash": "aa3701cf53606f339223e50fe6765b957b7b7119"
  },
  "a0WJ200000CDddZMAT": {
   "id": "a0WJ200000CDddZMAT",
